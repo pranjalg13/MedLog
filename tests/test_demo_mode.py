@@ -81,8 +81,13 @@ def test_curated_questions_cover_every_demo_patient():
 def test_fallback_names_the_patient_and_count():
     t = demo.fallback_text("Maya Chen", 7)
     assert "Maya Chen" in t and "7" in t
-    # It must be honest about what is and isn't live.
-    assert "live" in t.lower()
+
+
+def test_fallback_is_honest_about_what_is_and_is_not_live():
+    low = demo.fallback_text("Maya Chen", 7).lower()
+    assert "live" in low                       # says retrieval is real
+    assert "pre-written" in low or "written ahead" in low or "in advance" in low
+    assert demo.REPO_URL in demo.fallback_text("Maya Chen", 7)
 
 
 def test_get_state_reads_cache_without_anthropic(cache, monkeypatch):

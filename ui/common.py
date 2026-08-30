@@ -137,10 +137,10 @@ def demo_banner() -> None:
     if not demo.enabled():
         return
     st.markdown(
-        '<div class="demo-banner">🔎 <b>Public demo.</b> mem0 retrieval, the pinned safety '
-        'block and red-flag screening all run <b>live</b> — the memories and relevance scores '
-        'you see are real. Answer text for the suggested questions is pre-generated, so no LLM '
-        'key sits on this server. '
+        '<div class="demo-banner">🔎 <b>Public demo.</b> Search, the pinned safety block and '
+        'red-flag screening all run <b>live</b> — every memory and relevance score below is '
+        'computed as you click. Answers to the listed questions were written ahead of time, so '
+        'nothing here calls a language model. '
         '<a href="https://github.com/pranjalg13/MedLog" target="_blank">Source on GitHub</a>.</div>',
         unsafe_allow_html=True)
 

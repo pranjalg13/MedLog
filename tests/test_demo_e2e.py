@@ -112,7 +112,11 @@ def test_pinned_block_present_without_any_llm(client):
 def test_free_text_falls_back_honestly_but_still_retrieves(client):
     r = client.post("/patients/maya/ask", json={"question": "what did I eat on tuesday"}).json()
     assert r["unanswered"] and not r["from_cache"]
-    assert "demo" in r["text"].lower()
+    low = r["text"].lower()
+    # Assert on what the fallback must convey, not on particular wording: that the
+    # prose was prepared in advance, and that retrieval nonetheless ran for real.
+    assert "pre-written" in low or "written ahead" in low
+    assert "live" in low
     assert len(r["retrieved"]) == len(FAKE_MEMORIES)
 
 

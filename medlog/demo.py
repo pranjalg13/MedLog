@@ -19,17 +19,17 @@ from pathlib import Path
 from typing import Any
 
 CACHE_DIR = Path(__file__).resolve().parent.parent / "demo_cache"
+REPO_URL = "https://github.com/pranjalg13/MedLog"
 
 FALLBACK = """\
-**This is the public demo, which runs without an LLM key — so I can't compose a new answer
-for that question.**
+**That one isn't pre-written, so I can't compose an answer for it here.**
 
-What you're seeing on the right is real, though: mem0 actually searched {n} memories from
-{name}'s journal just now and returned these. Retrieval, relevance scores, the pinned
-safety block, and red-flag screening all run live.
+The panel on the right is real, though — mem0 just searched {n} memories from {name}'s journal
+to answer it. Retrieval, relevance scores, the pinned safety block and red-flag screening all
+run live; only the answer text is prepared in advance.
 
-The pre-written questions are answered in full. To ask anything you like, clone the repo
-(https://github.com/pranjalg13/MedLog) and add your own key — it's a two-line change.
+Any of the listed questions will answer in full. To ask whatever you like, clone the repo
+({repo}) and add your own API key — it's a two-line change.
 """
 
 
@@ -99,7 +99,7 @@ def cached_answer(question: str) -> dict[str, Any] | None:
 
 
 def fallback_text(patient_name: str, n_retrieved: int) -> str:
-    return FALLBACK.format(name=patient_name, n=n_retrieved)
+    return FALLBACK.format(name=patient_name, n=n_retrieved, repo=REPO_URL)
 
 
 def missing() -> list[str]:

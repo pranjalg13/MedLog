@@ -171,7 +171,7 @@ Fourteen months of history, one command, and mem0's temporal ranking sees a real
 
 ---
 
-## Public demo — no LLM key on the server
+## Public demo — runs without calling a language model
 
 The deployed app needs **only `MEM0_API_KEY`**. Every Claude call in MedLog produces an artifact
 derived from frozen data — the reconciled state, the brief, and the full-history token count
