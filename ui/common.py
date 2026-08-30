@@ -1,9 +1,22 @@
 """Shared UI helpers: API client, palette, styling."""
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+
+# Put the repo root on the path before anything imports `medlog`.
+#
+# Streamlit runs `ui/app.py` as a script, so only `ui/` lands on sys.path. Locally
+# `pip install -e .` hides this, but a host that installs requirements.txt and
+# nothing else -- Streamlit Community Cloud, for one -- fails with
+# ModuleNotFoundError: No module named 'medlog'. Every page imports this module
+# before it touches medlog, so fixing the path here fixes all of them.
+_ROOT = str(Path(__file__).resolve().parents[1])
+if _ROOT not in sys.path:
+    sys.path.insert(0, _ROOT)
+
 import json
 import os
-from pathlib import Path
 from typing import Any
 
 import httpx
