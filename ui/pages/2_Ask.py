@@ -23,12 +23,15 @@ if "pending" not in st.session_state:
 left, right = st.columns([3, 2], gap="large")
 
 with left:
-    if not st.session_state[key]:
-        st.markdown("**Try one of these:**")
-        for i, q in enumerate(SUGGESTED):
-            if st.button(q, key=f"sug{i}", use_container_width=True):
-                st.session_state["pending"] = q
-                st.rerun()
+    # Always on screen, not just on an empty transcript. These are the questions
+    # with full written answers, so the good path should never be more than one
+    # click away -- and after the first answer the old code hid them entirely.
+    st.markdown("**Try one of these:**")
+    for i, q in enumerate(SUGGESTED):
+        if st.button(q, key=f"sug{i}", use_container_width=True):
+            st.session_state["pending"] = q
+            st.rerun()
+    st.markdown("")
 
     for turn in st.session_state[key]:
         with st.chat_message(turn["role"]):
@@ -41,7 +44,8 @@ with left:
             else:
                 st.markdown(turn["content"])
 
-typed = st.chat_input("Ask about your history...")
+typed = st.chat_input(
+    "Type anything — search runs live, though only the listed questions have written answers")
 question = typed or st.session_state.pop("pending", None)
 
 if question:
