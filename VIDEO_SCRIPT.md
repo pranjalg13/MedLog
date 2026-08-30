@@ -1,6 +1,6 @@
 # MedLog — demo video script
 
-**~5 minutes.** Record locally (`make demo-ui`) — no cold start, no network jitter, and no
+**~6 minutes** spoken (~865 words). Record locally (`make demo-ui`) — no cold start, no network jitter, and no
 "Hosted with Streamlit" badge.
 
 Before recording: open the Journal page scrolled to the top, with Ask loaded in a second tab.
@@ -120,7 +120,7 @@ record on every turn. No top-k, no threshold."
 
 ---
 
-## 4:10 · One honest note
+## 4:35 · One honest note
 
 "I expected the headline to be token savings — retrieve a few facts instead of pasting a
 year. I measured it, and on this data it isn't true. Fourteen months is only about three
@@ -132,7 +132,7 @@ matter once a record runs to years — and I haven't measured that, so I don't c
 
 ---
 
-## 4:35 · Deploy your own
+## 5:05 · Deploy your own
 
 > *[README or the Streamlit deploy screen]*
 
