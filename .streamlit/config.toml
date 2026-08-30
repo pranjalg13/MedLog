@@ -1,6 +1,12 @@
 [server]
 headless = true
 
+[client]
+# "minimal" drops the Deploy button and the developer menu but keeps the sidebar
+# control, which lives in the same toolbar. This is Streamlit's own chrome; on a
+# portfolio demo it reads as somebody's tutorial rather than a product.
+toolbarMode = "minimal"
+
 [browser]
 gatherUsageStats = false
 
