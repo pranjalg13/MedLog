@@ -1,0 +1,123 @@
+patient:
+  id: rosa
+  name: Rosa Delgado
+  year_of_birth: 1979
+  profile: >-
+    47, warehouse supervisor. Right total knee replacement in April 2026,
+    journaling through the recovery.
+
+# Exercises trajectory summarisation: pain 8/10 -> 2/10, walking distance
+# climbing, a wound infection scare that resolved, opioid stopped early, and a
+# three-week lapse in physiotherapy in June followed by a resumption.
+
+entries:
+  - date: 2026-04-14
+    text: |
+      Right knee replaced yesterday. Everything went as planned. Pain is about 8 out of 10
+      even with what they're giving me. On oxycodone 5mg every six hours as needed plus
+      paracetamol. Walked to the bathroom and back with a frame, which took an age.
+
+  - date: 2026-04-17
+    text: |
+      Home. Pain 7 out of 10, worse in the evenings. Doing the ankle pumps and the
+      straight leg raises three times a day like they showed me. Knee is hot and very swollen.
+
+  - date: 2026-04-21
+    text: |
+      Pain down to 6. Managed about 30 metres with the frame today, up from ten. The
+      swelling is not budging.
+
+  - date: 2026-04-25
+    text: |
+      Stopped the oxycodone. It made me foggy and constipated and the pain is manageable on
+      paracetamol and ibuprofen now. Pain around 5 out of 10.
+
+  - date: 2026-04-28
+    text: |
+      Worried. The wound is redder than it was and warm to touch, and there's some yellowish
+      discharge at one end of the incision. Temperature 37.9. Ringing the surgical team first
+      thing.
+
+  - date: 2026-04-29
+    text: |
+      Seen same day. Superficial wound infection. Started cephalexin 500mg four times a day
+      for seven days. They took a swab. Told to come straight back if the redness spreads or
+      I spike a fever.
+
+  - date: 2026-05-03
+    text: |
+      Day five of the antibiotic. Redness has pulled back noticeably, no more discharge,
+      temperature normal. Big relief.
+
+  - date: 2026-05-06
+    text: |
+      Finished the cephalexin. Wound looks clean. Back to focusing on the knee itself.
+      Pain 5 out of 10, walking 100 metres with a stick.
+
+  - date: 2026-05-13
+    text: |
+      First outpatient physio session. Bend is 75 degrees, they want 90 by six weeks.
+      Given a set of exercises to do twice daily.
+
+  - date: 2026-05-20
+    text: |
+      Doing the physio twice a day. Bend feels better. Pain 4 out of 10, mostly at night.
+      Walking maybe 300 metres.
+
+  - date: 2026-05-28
+    text: |
+      Bend measured at 88 degrees. Physio pleased. Walking to the corner shop and back,
+      about 500 metres, with a stick.
+
+  - date: 2026-06-04
+    text: |
+      Pain 3 out of 10. Sleeping through most nights now for the first time since the surgery.
+
+  - date: 2026-06-11
+    text: |
+      Went back to work on light duties. Long days on my feet. Haven't done the exercises
+      properly all week, too tired by the time I get home.
+
+  - date: 2026-06-19
+    text: |
+      Second week of barely doing the physio. Knee feels stiffer, particularly in the mornings.
+      I know the two things are connected.
+
+  - date: 2026-06-26
+    text: |
+      Physio appointment and the bend has gone backwards, 82 degrees, down from 88. Told me
+      plainly that the exercises are the treatment and that this is reversible if I get back
+      to it. Fair enough.
+
+  - date: 2026-07-03
+    text: |
+      Back to twice daily properly. Set alarms. Stiffness already easing.
+
+  - date: 2026-07-10
+    text: |
+      Bend back to 90 degrees. Pain 3 out of 10. Walking a kilometre without the stick on
+      good days.
+
+  - date: 2026-07-18
+    text: |
+      Off the stick entirely indoors. Still take it for longer walks out of caution.
+
+  - date: 2026-07-25
+    text: |
+      Bend 98 degrees. Pain 2 out of 10. Can climb stairs one foot after the other rather
+      than one step at a time.
+
+  - date: 2026-08-05
+    text: |
+      Three months post op. Walking two kilometres comfortably. Pain 2 out of 10, only after
+      a long day. Still swells a little in the evenings.
+
+  - date: 2026-08-15
+    text: |
+      Back on full duties at work. Knee holding up. Doing the exercises once a day now rather
+      than twice, which physio said is fine at this stage.
+
+  - date: 2026-08-24
+    text: |
+      Bend 105 degrees. Want to ask at the next review when I can get back to cycling, and
+      whether the evening swelling is expected this far along.

@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "medlog-demo",
+      "runtimeExecutable": "/Users/pranjalgoyal/.local/share/uv/python/cpython-3.12.14-macos-aarch64-none/bin/python3.12",
+      "runtimeArgs": [
+        "-m",
+        "streamlit",
+        "run",
+        "ui/app.py",
+        "--server.port",
+        "8501",
+        "--server.headless",
+        "true"
+      ],
+      "port": 8501
+    }
+  ]
+}

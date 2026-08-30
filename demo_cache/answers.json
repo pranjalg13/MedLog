@@ -1,0 +1,194 @@
+{
+ "am i still taking propranolol and at what dose": {
+  "patient": "maya",
+  "question": "Am I still taking propranolol, and at what dose?",
+  "text": "Yes \u2014 **propranolol 40mg once daily**. You've been on that dose since [2026-07-07], when Dr. Alvarez doubled it from 20mg because migraines had crept up to four in June [2026-06-30].\n\nThe fuller history, since it's not a straight line:\n\n- **20mg daily** from [2026-01-13], started as prevention alongside sumatriptan\n- **Stopped** [2026-04-06] \u2014 your own decision, to test whether it was causing the tiredness\n- **Restarted at 20mg** [2026-04-27] after three difficult weeks\n- **Increased to 40mg** [2026-07-07]\n\nYou were told to give the new dose six weeks before judging it [2026-07-07]. That six weeks was up on [2026-08-18].",
+  "usage": {
+   "input_tokens": 2755,
+   "output_tokens": 165,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "has this rash happened before": {
+  "patient": "maya",
+  "question": "Has this rash happened before?",
+  "text": "Yes \u2014 **twice**, and the two episodes look very similar.\n\n- **[2025-09-17]** \u2014 flat red blotches across your stomach and inner arms, spreading to your upper back. Itchy, no facial swelling, no breathing trouble. Gone by [2025-09-23].\n- **[2026-05-22]** \u2014 the same description, same places, spreading toward your back. Gone by [2026-05-27].\n\nSomething worth taking to your doctor: on both occasions the rash began within a few days of starting **amoxicillin** \u2014 a course started [2025-09-12], and another started [2026-05-19] \u2014 and each time it settled about three days after you stopped taking it.\n\nAt the time you put the first one down to a new laundry detergent [2025-09-17], and you ruled that out yourself the second time round, since you'd been using the same brand for eight months [2026-05-22].\n\nTwo things make this worth raising rather than filing away. Your records say **no known drug allergies** \u2014 you gave that answer at intake [2025-09-12] and again at urgent care [2026-05-19], and it's never been revised. And the second prescription came from a clinician who didn't have access to your records [2026-05-19], so they had no way to know about the first episode.\n\nI can't tell you what caused either rash \u2014 that's genuinely a question for your GP. But you've noted twice that you meant to bring it up [2026-05-27], and it didn't come up at your last appointment [2026-06-09].",
+  "usage": {
+   "input_tokens": 3047,
+   "output_tokens": 365,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "did stopping the propranolol change anything": {
+  "patient": "maya",
+  "question": "Did stopping the propranolol change anything?",
+  "text": "Yes, quite clearly.\n\nYou stopped on [2026-04-06] and restarted on [2026-04-27] \u2014 **21 days**. In that window you had **five migraines**, including three in five days [2026-04-18]. Two of them landed on consecutive days [2026-04-14], which you noted hadn't happened since November 2025.\n\nFor comparison, you'd been averaging about **two a month** while taking it [2026-04-21] \u2014 one in January [2026-02-08], one in February [2026-02-25], two in March [2026-03-09].\n\nYou worked this out yourself at the time and restarted [2026-04-27], then told Dr. Alvarez at your next appointment [2026-06-09].\n\nWorth noting the other side of it, since it's why you stopped: the tiredness did lift. You recorded feeling less foggy within four days of stopping [2026-04-10], and it came back within a week of restarting [2026-05-04].",
+  "usage": {
+   "input_tokens": 2756,
+   "output_tokens": 214,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "what did my doctor want me to follow up on": {
+  "patient": "maya",
+  "question": "What did my doctor want me to follow up on?",
+  "text": "Two things are still open.\n\n**An MRI.** At your appointment on [2026-06-09], Dr. Alvarez said that if migraine frequency crept up or the pattern changed, brain imaging would be the next step. Not urgent, just the next thing to consider. It hasn't been actioned, and you've since listed it as something you want to ask about [2026-08-25].\n\n**Six weeks on the new dose.** When propranolol went to 40mg [2026-07-07] you were asked to give it six weeks before judging whether it was working. That elapsed on [2026-08-18], so you're now past the point where it's fair to assess.\n\nOne earlier instruction is closed: keeping the headache diary going [2026-01-13], which you've done.\n\nThere's also something you've twice meant to raise and haven't \u2014 the recurring rash. You added it to your list on [2026-05-27], and your note from [2026-06-09] says it didn't come up.",
+  "usage": {
+   "input_tokens": 2847,
+   "output_tokens": 226,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "how have my migraines changed over the past year": {
+  "patient": "maya",
+  "question": "How have my migraines changed over the past year?",
+  "text": "Quite a lot, and mostly in response to treatment.\n\n**Before treatment** \u2014 one or two a month through mid-2025 [2025-07-06], climbing through the autumn: four in October [2025-10-22], five in November [2025-11-19], three in December [2025-12-30].\n\n**After propranolol started** [2026-01-13] \u2014 two in January [2026-02-08], one in February [2026-02-25], two in March [2026-03-09].\n\n**The gap** \u2014 five in the 21 days you were off it [2026-04-21].\n\n**Since restarting** \u2014 two in May [2026-06-02], then a climb to four in June [2026-06-30], which prompted the increase to 40mg [2026-07-07]. Two in July [2026-07-30], two in August [2026-08-25].\n\nA few other things you've recorded along the way: they were described as headaches until [2025-11-06], when you started calling them migraines; sumatriptan brings one down in about 90 minutes [2026-01-24] versus the three hours in a dark room it used to take; and you've noticed more than once that they tend to follow a stretch of poor sleep by a day or two [2025-10-22].",
+  "usage": {
+   "input_tokens": 2815,
+   "output_tokens": 266,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "what do my records say about drug allergies": {
+  "patient": "maya",
+  "question": "What do my records say about drug allergies?",
+  "text": "Your records say **no known drug allergies**. You gave that answer on the intake form [2025-09-12] and again when urgent care asked [2026-05-19]. It hasn't been changed since.\n\nThat sits awkwardly with something else in your journal, though. A rash appeared within days of starting amoxicillin on two separate occasions \u2014 [2025-09-17] and [2026-05-22] \u2014 and settled about three days after you stopped it each time.\n\nI'm not able to tell you whether that means anything; that's a call for your GP. But the contradiction is worth putting in front of them, particularly because the second amoxicillin prescription came from a clinician with no access to your records [2026-05-19].",
+  "usage": {
+   "input_tokens": 2933,
+   "output_tokens": 178,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "what did i want to ask at my next appointment": {
+  "patient": "maya",
+  "question": "What did I want to ask at my next appointment?",
+  "text": "From your entry on [2026-08-25], three things:\n\n- Whether **40mg is the right long-term dose** of propranolol\n- Whether the **constant tiredness** is something you just live with, or whether there's an alternative\n- Whether the **MRI** is still needed, given things have settled down\n\nThere's a fourth that's been on your list longer and keeps not getting asked: the **recurring rash**. You added it on [2026-05-27], and your note from the last appointment says it didn't come up [2026-06-09].\n\nTwo bits of context that might help you ask well. The tiredness has tracked the dose closely \u2014 it started three days in [2026-01-16], lifted when you stopped [2026-04-10], and worsened after the increase [2026-07-15]. And your six weeks at 40mg was up on [2026-08-18], so there's enough time on the dose now to judge it.",
+  "usage": {
+   "input_tokens": 2785,
+   "output_tokens": 214,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "am i taking anything for cholesterol": {
+  "patient": "arjun",
+  "question": "Am I taking anything for cholesterol?",
+  "text": "Yes \u2014 **atorvastatin 20mg at night**. It's been in your list since [2025-09-10] and you were still collecting it on [2026-07-22], after a four-day gap while the pharmacy sorted out the repeat.\n\nWorth flagging, because it's a discrepancy your clinician should know about: on [2026-04-02] you told a new physiotherapist you don't take anything for cholesterol. That doesn't match the rest of your record.\n\nThe same list also omitted atorvastatin on your cataract pre-operative form [2026-06-15]. That one's worth correcting directly.",
+  "usage": {
+   "input_tokens": 2098,
+   "output_tokens": 139,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "am i still on amlodipine": {
+  "patient": "arjun",
+  "question": "Am I still on amlodipine?",
+  "text": "**No.** You stopped amlodipine 5mg on [2025-11-17], after Dr. Whitfield identified it as the likely cause of your ankle swelling [2025-11-19]. The swelling had almost entirely resolved by [2025-12-08], and on [2026-03-11] there was no plan to restart it.\n\nThis is worth correcting somewhere, though: you've listed amlodipine as a current medication twice since stopping it \u2014 to a physiotherapist [2026-04-02], and on a **cataract pre-operative form** [2026-06-15]. A surgical team working from that form would have the wrong list.\n\nFor blood pressure you're on **lisinopril 20mg once daily**, increased from 10mg on [2026-03-11].",
+  "usage": {
+   "input_tokens": 2101,
+   "output_tokens": 165,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "what dose of metformin am i on and when did it change": {
+  "patient": "arjun",
+  "question": "What dose of metformin am I on and when did it change?",
+  "text": "**1000mg twice daily, with meals.** It changed on [2026-01-20], doubled from 500mg twice daily after your HbA1c came back at 8.1 [2026-01-07].\n\nYou were warned to expect some stomach upset for a couple of weeks and to take it with meals [2026-01-20]. That played out \u2014 loose bowels most mornings for about a fortnight [2026-02-03], settled by [2026-02-18].\n\nSince then: HbA1c 7.2 [2026-05-06], and fasting sugars down from 138\u2013155 in November 2025 [2025-11-05] to 115\u2013125 [2026-07-01]. You also restarted 30-minute daily walks around [2026-04-16], so two things changed together.",
+  "usage": {
+   "input_tokens": 2170,
+   "output_tokens": 152,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "how long have i had this cough": {
+  "patient": "arjun",
+  "question": "How long have I had this cough?",
+  "text": "The dry cough first appears in your journal on [2026-03-25], and it was still there on [2026-08-12] \u2014 so about five months, mostly at night [2026-05-20].\n\nYou described it at the time as something you'd had on and off for years [2026-03-25], so it may be a change in something long-standing rather than new.\n\nOne thing you may want to point out: it was first recorded two weeks after your **lisinopril was increased from 10mg to 20mg** on [2026-03-11]. You've already noted wanting to ask whether the two are connected [2026-08-12]. That's the right person to ask \u2014 I can only tell you the sequence, not whether one caused the other.",
+  "usage": {
+   "input_tokens": 2049,
+   "output_tokens": 166,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "list everything im currently taking": {
+  "patient": "arjun",
+  "question": "List everything I'm currently taking.",
+  "text": "From your record, currently:\n\n- **Metformin 1000mg twice daily**, with meals \u2014 since [2026-01-20]\n- **Lisinopril 20mg once daily**, mornings \u2014 since [2026-03-11]\n- **Atorvastatin 20mg at night** \u2014 since [2025-09-10]\n- **Eye drops** \u2014 listed on your cataract form [2026-06-15], no dose recorded\n\n**Stopped:** amlodipine 5mg, discontinued [2025-11-17] for ankle swelling.\n\nTwo things to check with your clinician, because your spoken list and your record don't match:\n\n- You told a physiotherapist you take nothing for cholesterol [2026-04-02], but atorvastatin has been on your list throughout.\n- You listed amlodipine as current on [2026-04-02] and on your pre-operative form [2026-06-15], seven months after stopping it.",
+  "usage": {
+   "input_tokens": 2128,
+   "output_tokens": 189,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "did i have any complications after surgery": {
+  "patient": "rosa",
+  "question": "Did I have any complications after surgery?",
+  "text": "Yes, one \u2014 and it resolved.\n\nOn [2026-04-28] you recorded that the wound was redder than before, warm to touch, with yellowish discharge at one end of the incision, and a temperature of 37.9. You rang the surgical team that morning.\n\nYou were seen the next day [2026-04-29], where it was identified as a **superficial wound infection**. A swab was taken and you started **cephalexin 500mg four times daily for seven days**, with instructions to come straight back if the redness spread or you developed a fever.\n\nIt improved quickly: redness had pulled back with no further discharge and a normal temperature by day five [2026-05-03], and you finished the course on [2026-05-06] with the wound looking clean.\n\nPain sat around 5/10 through that period [2026-05-06] before continuing to improve.",
+  "usage": {
+   "input_tokens": 1938,
+   "output_tokens": 208,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "did skipping physio actually make a difference": {
+  "patient": "rosa",
+  "question": "Did skipping physio actually make a difference?",
+  "text": "Yes, and it's one of the clearest things in your record \u2014 it was measured on both sides.\n\n- **[2026-05-13]** \u2014 flexion 75 degrees, exercises twice daily\n- **[2026-05-28]** \u2014 88 degrees, physio pleased\n- **[2026-06-11]** \u2014 back to work on light duties; you noted you hadn't done the exercises properly all week\n- **[2026-06-19]** \u2014 a second week barely done, knee stiffer in the mornings, and you made the connection yourself\n- **[2026-06-26]** \u2014 **82 degrees, down from 88**\n- **[2026-07-03]** \u2014 back to twice daily, alarms set\n- **[2026-07-10]** \u2014 **90 degrees**, back above where you'd been\n\nIt kept going after that: 98 degrees [2026-07-25], 105 [2026-08-24]. Your physiotherapist's line at the time was that the exercises are the treatment and the loss was reversible [2026-06-26], which is what the numbers went on to show.",
+  "usage": {
+   "input_tokens": 1952,
+   "output_tokens": 217,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "how has my pain changed since the operation": {
+  "patient": "rosa",
+  "question": "How has my pain changed since the operation?",
+  "text": "Steadily downward, with one plateau.\n\n- **8/10** the day after surgery [2026-04-14], on oxycodone and paracetamol\n- **7/10** [2026-04-17], worse in the evenings\n- **6/10** [2026-04-21]\n- **5/10** [2026-04-25] \u2014 manageable enough to stop the oxycodone\n- Held around **5/10** through the wound infection [2026-05-06]\n- **4/10** [2026-05-20], mostly at night\n- **3/10** [2026-06-04] \u2014 sleeping through most nights for the first time since surgery\n- **2/10** [2026-07-25], and by [2026-08-05] only after a long day\n\nFunction tracked it: 30 metres with a frame [2026-04-21], 100 metres with a stick [2026-05-06], 500 metres [2026-05-28], a kilometre without the stick [2026-07-10], two kilometres comfortably [2026-08-05].\n\nMild evening swelling is still there [2026-08-05], which you've noted wanting to ask about [2026-08-24].",
+  "usage": {
+   "input_tokens": 1875,
+   "output_tokens": 216,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ },
+ "how long was i on the strong painkillers": {
+  "patient": "rosa",
+  "question": "How long was I on the strong painkillers?",
+  "text": "**About eleven days.** Oxycodone 5mg every six hours as needed started with your surgery on [2026-04-13], and you stopped on [2026-04-25].\n\nYour reason at the time: it made you foggy and constipated, and the pain had come down to about 5/10, manageable on paracetamol and ibuprofen [2026-04-25].\n\nYou've been on paracetamol and ibuprofen as needed since. Separately, you took a full seven-day course of cephalexin for the wound infection, [2026-04-29] to [2026-05-06].",
+  "usage": {
+   "input_tokens": 1883,
+   "output_tokens": 123,
+   "model": "claude-opus-5",
+   "latency_ms": 0
+  },
+  "retrieved_count": 12
+ }
+}

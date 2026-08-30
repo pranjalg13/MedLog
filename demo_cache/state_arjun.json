@@ -1,0 +1,200 @@
+{
+ "medications": [
+  {
+   "name": "Metformin",
+   "dose": "1000mg twice daily, with meals",
+   "status": "active",
+   "started": "2019-09-10",
+   "stopped": "",
+   "reason_stopped": "",
+   "dose_history": [
+    "Before 2026-01-20: 500mg twice daily",
+    "2026-01-20: increased to 1000mg twice daily by Dr. Whitfield after HbA1c 8.1"
+   ],
+   "evidence": [
+    "2025-09-10",
+    "2026-01-20",
+    "2026-04-02"
+   ]
+  },
+  {
+   "name": "Lisinopril",
+   "dose": "20mg once daily, mornings",
+   "status": "active",
+   "started": "2025-09-10",
+   "stopped": "",
+   "reason_stopped": "",
+   "dose_history": [
+    "Until 2026-03-11: 10mg once daily",
+    "2026-03-11: increased to 20mg once daily, BP still 146/90"
+   ],
+   "evidence": [
+    "2025-09-10",
+    "2026-03-11",
+    "2026-04-02"
+   ]
+  },
+  {
+   "name": "Atorvastatin",
+   "dose": "20mg at night",
+   "status": "active",
+   "started": "2025-09-10",
+   "stopped": "",
+   "reason_stopped": "",
+   "dose_history": [
+    "2026-07-22: four-day gap from a delayed repeat prescription, then resumed"
+   ],
+   "evidence": [
+    "2025-09-10",
+    "2025-12-08",
+    "2026-07-22"
+   ]
+  },
+  {
+   "name": "Amlodipine",
+   "dose": "5mg in the morning",
+   "status": "stopped",
+   "started": "2025-09-10",
+   "stopped": "2025-11-17",
+   "reason_stopped": "Ankle swelling, which resolved almost entirely within three weeks of stopping. Dr. Whitfield identified it as the likely cause on 2025-11-19. No plans to restart.",
+   "dose_history": [],
+   "evidence": [
+    "2025-11-19",
+    "2025-12-08",
+    "2026-03-11"
+   ]
+  },
+  {
+   "name": "Eye drops",
+   "dose": "Not recorded",
+   "status": "uncertain",
+   "started": "2026-06-15",
+   "stopped": "",
+   "reason_stopped": "",
+   "dose_history": [],
+   "evidence": [
+    "2026-06-15"
+   ]
+  }
+ ],
+ "allergies_and_reactions": [],
+ "conditions": [
+  "Type 2 diabetes, diagnosed 2019",
+  "Hypertension, on treatment since at least 2025-09-10"
+ ],
+ "symptoms": [
+  {
+   "description": "Dry cough, mostly at night",
+   "status": "active",
+   "first_recorded": "2026-03-25",
+   "most_recent": "2026-08-12",
+   "frequency": "Intermittent, persistent since March 2026; the patient described it as on and off for years",
+   "trend": "stable"
+  },
+  {
+   "description": "Ankle swelling, worse in the evenings",
+   "status": "resolved",
+   "first_recorded": "2025-10-08",
+   "most_recent": "2026-05-20",
+   "frequency": "Resolved after amlodipine was stopped in November 2025",
+   "trend": "improving"
+  },
+  {
+   "description": "Gastrointestinal upset with loose stools",
+   "status": "resolved",
+   "first_recorded": "2026-02-03",
+   "most_recent": "2026-02-18",
+   "frequency": "About two weeks following the metformin increase, as forewarned; settled by 2026-02-18",
+   "trend": "improving"
+  }
+ ],
+ "conflicts": [
+  {
+   "description": "On 2026-04-02 the patient told a new physiotherapist they take nothing for cholesterol. The record shows atorvastatin 20mg at night from 2025-09-10, still being collected on 2026-07-22. The medication is active and was under-reported.",
+   "evidence": [
+    "2025-09-10",
+    "2026-04-02",
+    "2026-07-22"
+   ]
+  },
+  {
+   "description": "Amlodipine was stopped on 2025-11-17, but the patient listed it as current to a physiotherapist on 2026-04-02 and again on a cataract pre-operative form on 2026-06-15. A discontinued drug is being over-reported, including on a surgical form.",
+   "evidence": [
+    "2025-11-17",
+    "2026-04-02",
+    "2026-06-15"
+   ]
+  },
+  {
+   "description": "The 2026-06-15 pre-operative form listed metformin, lisinopril, amlodipine and eye drops, omitting atorvastatin and including a drug stopped seven months earlier. Neither error has been corrected.",
+   "evidence": [
+    "2026-06-15"
+   ]
+  }
+ ],
+ "patterns_to_raise": [
+  {
+   "observation": "The patient's self-reported medication list is inaccurate in both directions, consistently. Atorvastatin, taken throughout, has been omitted; amlodipine, stopped 2025-11-17, has been included twice. The same two errors appeared on 2026-04-02 and again on 2026-06-15.",
+   "why_it_matters": "One of those occasions was a pre-operative form for a cataract procedure. The list a clinician receives verbally does not match the list in this record.",
+   "confidence": "high",
+   "safety_relevant": true,
+   "evidence": [
+    "2026-04-02",
+    "2026-06-15",
+    "2025-11-17",
+    "2026-07-22"
+   ]
+  },
+  {
+   "observation": "A dry night cough was first recorded on 2026-03-25, two weeks after the lisinopril dose was doubled from 10mg to 20mg on 2026-03-11, and has persisted since. The patient described the cough as intermittent for years, so this is a change in a pre-existing symptom rather than a new one.",
+   "why_it_matters": "The patient has independently raised this question and wants to ask about it.",
+   "confidence": "moderate",
+   "safety_relevant": true,
+   "evidence": [
+    "2026-03-11",
+    "2026-03-25",
+    "2026-05-20",
+    "2026-08-12"
+   ]
+  },
+  {
+   "observation": "Glycaemic control improved steadily after the metformin increase on 2026-01-20: HbA1c 8.1 on 2026-01-07 to 7.2 on 2026-05-06, with fasting sugars falling from 138-155 in November 2025 to 115-125 by July 2026. Daily 30-minute walks resumed in April 2026.",
+   "why_it_matters": "Two changes coincided, so the improvement cannot be attributed to the dose alone.",
+   "confidence": "high",
+   "safety_relevant": false,
+   "evidence": [
+    "2026-01-07",
+    "2026-01-20",
+    "2026-02-18",
+    "2026-05-06",
+    "2026-07-01"
+   ]
+  }
+ ],
+ "open_items": [
+  {
+   "item": "Whether lisinopril could be causing the night cough.",
+   "kind": "patient_question",
+   "raised_on": "2026-08-12",
+   "still_open": true
+  },
+  {
+   "item": "Whether the metformin dose is appropriate for long-term use.",
+   "kind": "patient_question",
+   "raised_on": "2026-08-26",
+   "still_open": true
+  },
+  {
+   "item": "Monitor blood pressure following the amlodipine discontinuation.",
+   "kind": "clinician_instruction",
+   "raised_on": "2025-11-19",
+   "still_open": false
+  },
+  {
+   "item": "Cataract assessment, pre-operative form submitted.",
+   "kind": "clinician_instruction",
+   "raised_on": "2026-06-15",
+   "still_open": true
+  }
+ ]
+}

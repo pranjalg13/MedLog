@@ -1,0 +1,351 @@
+patient:
+  id: maya
+  name: Maya Chen
+  year_of_birth: 1992
+  profile: >-
+    34, works in product design. Started journaling after a stretch of headaches
+    that were getting hard to keep track of. Sees a GP at Fairview Family Health.
+
+# ---------------------------------------------------------------------------
+# THE PLANTED PATTERN: two rashes, 2025-09-17 and 2026-05-22, each beginning
+# ~2 days after starting amoxicillin, each resolving in ~3 days off it. Written
+# 8 months apart, in different words, from different clinics, and never once
+# connected by Maya. On 2025-09-12 the intake form is filled in as "no allergies"
+# and that answer is never revised.
+# ---------------------------------------------------------------------------
+
+entries:
+  - date: 2025-07-06
+    text: |
+      Starting this because Dr. Alvarez said it would help to actually write things down
+      instead of trying to remember at appointments. So: headaches. Maybe one or two a
+      month, usually behind my left eye, kind of throbbing. Advil handles it if I catch
+      it early enough. Not exactly an emergency but annoying.
+
+  - date: 2025-07-14
+    text: |
+      Bad one today. Started around 2pm, right side this time which is unusual. Light in
+      the office made it worse so I worked from a dark meeting room for two hours like a
+      vampire. Took two Advil around 3, mostly gone by evening.
+
+  - date: 2025-07-21
+    text: |
+      Nothing to report health wise. Slept badly three nights running though, launch week.
+      Averaging maybe five hours.
+
+  - date: 2025-07-29
+    text: |
+      Headache again, mild. That's two this month. Also I've been drinking way more coffee
+      than usual, like four cups some days. Wonder if that's related.
+
+  - date: 2025-08-04
+    text: |
+      No headache in over a week. Sleeping better now that the launch shipped.
+
+  - date: 2025-08-11
+    text: |
+      Rolled my ankle on the trail on Saturday. Swollen, purple, but I can walk on it.
+      Icing it. Not going to bother anyone about it.
+
+  - date: 2025-08-18
+    text: |
+      Ankle basically fine. Headache Thursday, the behind-the-left-eye kind, took Advil.
+
+  - date: 2025-08-25
+    text: |
+      Three headaches this month by my count. Slightly more than usual? Hard to say, this
+      is exactly why I'm writing it down.
+
+  - date: 2025-09-02
+    text: |
+      Woke up with my face aching, especially cheekbones and forehead. Blowing my nose
+      constantly. Pretty sure it's a sinus thing, third one I've had in two years.
+
+  - date: 2025-09-08
+    text: |
+      Sinus thing has not improved in a week. Now there's pressure when I bend over and
+      my top teeth ache which is apparently a sinus thing too. Going to book an appointment.
+
+  - date: 2025-09-12
+    text: |
+      Saw Dr. Alvarez. Sinus infection, bacterial. Prescribed amoxicillin 500mg three times
+      a day for ten days. Also did the usual intake paperwork and I put "none" for drug
+      allergies because as far as I know I don't have any. Told to finish the whole course
+      even if I feel better.
+
+  - date: 2025-09-15
+    text: |
+      Day three of the antibiotic. Sinus pressure is already noticeably better. Taking them
+      with food because the first one on an empty stomach was a mistake.
+
+  - date: 2025-09-17
+    text: |
+      Weird thing. Woke up with a rash across my stomach and the inside of both arms. Small
+      flat red blotches, some of them joining up into bigger patches. Itchy but not
+      unbearable. No swelling in my face or lips, breathing is fine. Probably the new
+      laundry detergent? I did switch brands last week. Kind of suspicious timing.
+
+  - date: 2025-09-18
+    text: |
+      Rash is still there, maybe a bit more spread out, now on my upper back too. Still
+      itchy. Took a Benadryl before bed. Washed everything in the old detergent to rule it out.
+
+  - date: 2025-09-20
+    text: |
+      Called the office about the rash, spoke to the nurse line. They said stop the
+      amoxicillin, I'd had eight of the ten days and the infection had cleared anyway.
+      Rash already looks like it's fading at the edges.
+
+  - date: 2025-09-23
+    text: |
+      Rash is basically gone. Three days and out. Still think it was the detergent, going
+      to stay off that brand.
+
+  - date: 2025-10-05
+    text: |
+      Two headaches this week which is a lot for me. Both left side, both throbbing, both
+      with the light sensitivity thing. Advil barely touched the second one.
+
+  - date: 2025-10-13
+    text: |
+      Another one. I'm starting to think these aren't just headaches. This one came with
+      nausea and I had to lie down in the dark for three hours. Googled it and everything
+      points at migraine, which honestly had not occurred to me.
+
+  - date: 2025-10-22
+    text: |
+      Four this month. Four! Also noticing they tend to land a day or two after a bad
+      sleep stretch. Not always but often enough that I've started noting my sleep.
+
+  - date: 2025-10-30
+    text: |
+      Quiet week thankfully. Sleeping seven hours-ish. No headaches since the 22nd.
+
+  - date: 2025-11-06
+    text: |
+      Migraine (calling them that now) on Tuesday and again today. The Tuesday one I caught
+      early with Advil and it stayed manageable. Today's I didn't and it was awful.
+
+  - date: 2025-11-12
+    text: |
+      Booked an appointment for January, earliest they had for a non-urgent thing. Writing
+      down what I want to ask: is this actually migraine, is there something better than
+      Advil, and should I be worried that they're getting more frequent.
+
+  - date: 2025-11-19
+    text: |
+      Five this month. Work is genuinely stressful right now, reorg, and I know that's not
+      helping. Sleep is bad again, maybe five and a half hours.
+
+  - date: 2025-11-25
+    text: |
+      Nothing new. Neck and shoulders permanently tight. My partner says I clench my jaw
+      in my sleep.
+
+  - date: 2025-12-03
+    text: |
+      Migraine Monday. Took the day off, first sick day I've taken for a headache in my life,
+      which felt ridiculous but I genuinely could not look at a screen.
+
+  - date: 2025-12-14
+    text: |
+      Slower month, only two so far. Holidays, less work stress, sleeping more. Suspicious
+      how well that lines up.
+
+  - date: 2025-12-22
+    text: |
+      Travelling to my parents' for the holidays. Flight was fine, no headache.
+
+  - date: 2025-12-30
+    text: |
+      Three for December total. Better than November. Appointment is in two weeks.
+
+  - date: 2026-01-13
+    text: |
+      GP appointment. Dr. Alvarez says it's migraine with aura-free presentation, which
+      matches everything I described. Two things: sumatriptan 50mg to take at the first
+      sign of one, and propranolol 20mg once daily every day as prevention. The propranolol
+      is the one I take regardless of whether I have a headache. Warned me it can make you
+      tired and can lower blood pressure, and to give it two months before judging it.
+      Also said keep the headache diary going, it was genuinely useful.
+
+  - date: 2026-01-16
+    text: |
+      Day three of propranolol 20mg. Noticeably more tired in the afternoons. Told to expect
+      that, hoping it settles.
+
+  - date: 2026-01-24
+    text: |
+      First migraine since starting. Took the sumatriptan within about twenty minutes of it
+      starting and it was gone in an hour and a half. That's genuinely remarkable compared
+      to lying in the dark for three hours.
+
+  - date: 2026-01-29
+    text: |
+      Bought a blood pressure cuff because I got curious. 104/68 this morning. That's lower
+      than I remember it being, which I guess is the propranolol doing its job.
+
+  - date: 2026-02-08
+    text: |
+      Two migraines in January total, both handled with sumatriptan. Down from five in
+      November. Cautiously optimistic.
+
+  - date: 2026-02-17
+    text: |
+      Still tired. It's not the propranolol settling like I hoped, it's just a baseline now.
+      Afternoons around 3pm I hit a wall.
+
+  - date: 2026-02-25
+    text: |
+      One migraine this month. One! Sleeping better too, seven and a half hours most nights.
+
+  - date: 2026-03-09
+    text: |
+      Two in March so far but both mild and both caught early with the sumatriptan.
+      BP 102/66.
+
+  - date: 2026-03-18
+    text: |
+      Dentist, routine cleaning, no issues. Mentioned the jaw clenching and they said my
+      molars show some wear but nothing needing action yet.
+
+  - date: 2026-03-27
+    text: |
+      Good month. Two migraines. The tiredness is the only real complaint and honestly I'm
+      starting to resent it. I'm 34 and I nap like a toddler.
+
+  - date: 2026-04-06
+    text: |
+      I stopped taking the propranolol. Didn't ask anyone, which I know is not ideal. But
+      I've been exhausted for three months straight and I want to know if that's the pill
+      or just me. Migraines have been under control anyway so it feels like a reasonable
+      experiment. Still have the sumatriptan if I need it.
+
+  - date: 2026-04-10
+    text: |
+      Four days off it. Definitely less foggy in the afternoons. No headache yet.
+
+  - date: 2026-04-14
+    text: |
+      Migraine yesterday and another one today. Two days in a row, that hasn't happened
+      since November. Sumatriptan worked on both but I'm rattled.
+
+  - date: 2026-04-18
+    text: |
+      Another one. That's three in five days. This is worse than it's been all year.
+
+  - date: 2026-04-21
+    text: |
+      Two more since I last wrote. I've had five migraines in the sixteen days since I
+      stopped the propranolol. I averaged two a month on it. I think I have my answer and
+      I do not love it.
+
+  - date: 2026-04-27
+    text: |
+      Restarted the propranolol 20mg this morning. Twenty-one days off it, five migraines,
+      versus about two a month while I was taking it. Lesson learned, expensively. Will
+      tell Dr. Alvarez at the next appointment, though I'm not thrilled about admitting it.
+
+  - date: 2026-05-04
+    text: |
+      A week back on it. One migraine this week. Tiredness is creeping back too, so, trade-offs.
+
+  - date: 2026-05-11
+    text: |
+      Quiet week. BP 106/70.
+
+  - date: 2026-05-17
+    text: |
+      Sinus pressure again, that same face-ache and blocked-up feeling I had back in the
+      autumn. Cheekbones sore, teeth aching on the top. I know this one now.
+
+  - date: 2026-05-19
+    text: |
+      Couldn't get in with Dr. Alvarez so I went to the urgent care on Meridian. Different
+      doctor, didn't have my records. Sinus infection confirmed, prescribed amoxicillin,
+      875mg twice a day this time, for seven days. They asked about allergies and I said
+      none, same as always.
+
+  - date: 2026-05-22
+    text: |
+      The blotchy rash is back. Stomach, inner arms, spreading toward my back — pretty much
+      exactly where it was last time. Flat red patches running together, itchy. Face and
+      lips are normal, no trouble breathing. Last time I decided it was laundry detergent
+      but I've been using the same brand for eight months now, so that theory is dead.
+      Maybe stress? Or something I ate?
+
+  - date: 2026-05-24
+    text: |
+      Rash is worse before it's better, more of it on my back now. Taking Benadryl at night.
+      Stopped the antibiotic two days early because the sinus stuff had cleared up and I
+      wanted one fewer thing in my system while this rash figures itself out.
+
+  - date: 2026-05-27
+    text: |
+      Rash gone, about three days after it peaked. Same as last time honestly. Whatever it
+      is, it comes and goes fast. Adding it to the list of things to ask about, if I remember.
+
+  - date: 2026-06-02
+    text: |
+      Back to normal. Two migraines in May, which is about the usual since restarting.
+
+  - date: 2026-06-09
+    text: |
+      GP appointment. Told Dr. Alvarez about stopping the propranolol in April and the five
+      migraines, and got a very kind "well, that's useful data" which was more gracious than
+      I deserved. Staying on 20mg for now. The important bit: if the frequency creeps back
+      up or anything changes about the pattern, we should think about imaging, an MRI, to
+      rule things out. Not urgent, not worried, just the next step if things don't settle.
+      I completely forgot to mention the rash. Again.
+
+  - date: 2026-06-16
+    text: |
+      One migraine this week. Sleep has been poor, maybe six hours, new project starting.
+
+  - date: 2026-06-24
+    text: |
+      Three migraines in June. Creeping up compared to Feb and March.
+
+  - date: 2026-06-30
+    text: |
+      Four for June by the end. That's double what I was averaging in the spring.
+
+  - date: 2026-07-07
+    text: |
+      Called the office about the increase and Dr. Alvarez increased the propranolol to 40mg
+      once daily, up from 20mg. Same drug, double the dose. Give it six weeks before judging.
+      Sumatriptan 50mg stays as the rescue.
+
+  - date: 2026-07-15
+    text: |
+      A week and a half at 40mg. The tiredness is worse again, which I expected but still.
+      No migraine since the increase.
+
+  - date: 2026-07-23
+    text: |
+      One migraine, mild, caught early. BP 100/64, which is the lowest I've measured. Felt
+      briefly dizzy standing up too fast this morning, worth mentioning.
+
+  - date: 2026-07-30
+    text: |
+      Two migraines in July, down from four in June. The 40mg might be working.
+
+  - date: 2026-08-05
+    text: |
+      Good stretch. No migraine in twelve days. Still tired but I've made a kind of peace
+      with it.
+
+  - date: 2026-08-13
+    text: |
+      One migraine, Tuesday. Sumatriptan sorted it. Sleeping around seven hours.
+
+  - date: 2026-08-20
+    text: |
+      BP 102/68. No dizziness since that one time in July.
+
+  - date: 2026-08-25
+    text: |
+      Appointment coming up. Things I want to ask about: whether 40mg is the right long-term
+      dose, whether the constant tiredness is something I just live with or whether there's
+      an alternative, and whether we still need to think about the MRI given things have
+      settled down. Two migraines in August.

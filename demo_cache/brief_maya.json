@@ -1,0 +1,373 @@
+{
+ "markdown": "## Since the last visit\n\nMigraine frequency rose to four in June, prompting an increase to propranolol 40mg on\n[2026-07-07]; it has settled to two a month since. The item most worth your attention,\nhowever, predates this window and is under *Worth asking about*.\n\n## Current medications\n\n- **Propranolol 40mg once daily** since [2026-07-07], increased from 20mg started [2026-01-13]\n- **Sumatriptan 50mg** as needed at migraine onset, since [2026-01-13]\n- Ibuprofen as needed for headaches; last recorded [2025-11-06], current use unclear\n\n## What has changed\n\n- **Migraines:** 4 in June [2026-06-30], double the spring average of about 2/month. Since the\n  dose increase, 2 in July [2026-07-30] and 2 in August [2026-08-25].\n- **Fatigue** worsened again within a week of the increase [2026-07-15] and persists\n  [2026-08-05]. It is the patient's main complaint about treatment.\n- **BP 100/64** [2026-07-23], the lowest recorded, with brief dizziness on standing that same\n  morning. 102/68 by [2026-08-20], no dizziness since.\n\n## Worth asking about\n\nA rash of the same description appeared on two occasions, each within days of starting\namoxicillin and each resolving about three days after it was stopped:\n\n- Course started [2025-09-12] \u2014 rash [2025-09-17], resolved [2025-09-23]\n- Course started [2026-05-19] \u2014 rash [2026-05-22], resolved [2026-05-27]\n\nThe patient attributed the first episode to a newly switched laundry detergent and explicitly\nruled that out the second time, the same brand having been in use for eight months. They offered\nno alternative explanation and have not raised it with a clinician.\n\n## To verify\n\n- The allergy record states **none known**, given at intake [2025-09-12] and again at urgent care\n  [2026-05-19]. It has not been revised.\n- The [2026-05-19] amoxicillin prescription was issued at urgent care by a clinician who did not\n  have access to the patient's records.\n\n## Open from last time\n\n- **MRI** if frequency increases or the pattern changes [2026-06-09] \u2014 not yet actioned.\n- Six weeks at 40mg before judging effectiveness [2026-07-07]; that elapsed [2026-08-18].\n\n## The patient's questions\n\n- Whether 40mg is the right long-term dose [2026-08-25]\n- Whether the constant tiredness is something to live with, or whether there is an alternative\n  [2026-08-25]\n- Whether the MRI is still needed, given things have settled [2026-08-25]\n",
+ "since": "2026-06-09",
+ "until": "2026-08-25",
+ "entry_count": 12,
+ "flags": [
+  {
+   "kind": "pattern",
+   "text": "A rash of the same description appeared on two separate occasions, each within a few days of starting amoxicillin, and each resolved roughly three days after the antibiotic was stopped. First course started 2025-09-12, rash 2025-09-17, resolved 2025-09-23. Second course started 2026-05-19, rash 2026-05-22, resolved 2026-05-27. On the first occasion the patient attributed it to a new laundry detergent; on the second they ruled that out, the same brand having been in use for eight months, and offered no alternative explanation.",
+   "confidence": "moderate",
+   "safety": true,
+   "evidence": [
+    "2025-09-12",
+    "2025-09-17",
+    "2025-09-23",
+    "2026-05-19",
+    "2026-05-22",
+    "2026-05-27"
+   ]
+  },
+  {
+   "kind": "pattern",
+   "text": "Migraine frequency moves inversely with propranolol adherence. On 20mg the patient averaged about two migraines a month. In the 21 days off it (2026-04-06 to 2026-04-27) they had five, including three in five days. After restarting, frequency returned to about two a month, rose to four in June 2026, and settled to two a month after the increase to 40mg on 2026-07-07.",
+   "confidence": "high",
+   "safety": false,
+   "evidence": [
+    "2026-04-06",
+    "2026-04-14",
+    "2026-04-18",
+    "2026-04-21",
+    "2026-04-27",
+    "2026-06-30",
+    "2026-07-07",
+    "2026-07-30"
+   ]
+  },
+  {
+   "kind": "pattern",
+   "text": "Reported fatigue tracks propranolol dose. It began three days after starting 20mg (2026-01-16), was described as a persistent baseline through February and March, lifted within four days of stopping (2026-04-10), returned within a week of restarting (2026-05-04), and worsened again after the increase to 40mg (2026-07-15).",
+   "confidence": "high",
+   "safety": false,
+   "evidence": [
+    "2026-01-16",
+    "2026-02-17",
+    "2026-04-10",
+    "2026-05-04",
+    "2026-07-15",
+    "2026-08-05"
+   ]
+  },
+  {
+   "kind": "pattern",
+   "text": "The patient has repeatedly noted that migraines tend to follow a stretch of poor sleep by one to two days, and that quieter, better-slept periods coincided with fewer attacks.",
+   "confidence": "low",
+   "safety": false,
+   "evidence": [
+    "2025-10-22",
+    "2025-12-14",
+    "2026-06-16"
+   ]
+  },
+  {
+   "kind": "conflict",
+   "text": "The record states no known drug allergies -- given on the intake form on 2025-09-12 and again to urgent care on 2026-05-19 -- yet a rash is documented following amoxicillin on both courses. The allergy record has never been revised.",
+   "confidence": "",
+   "safety": false,
+   "evidence": [
+    "2025-09-12",
+    "2025-09-17",
+    "2026-05-19",
+    "2026-05-22"
+   ]
+  },
+  {
+   "kind": "conflict",
+   "text": "The 2026-05-19 amoxicillin prescription was issued at urgent care by a clinician who did not have access to the patient's records, so the September 2025 rash was not available to the prescriber.",
+   "confidence": "",
+   "safety": false,
+   "evidence": [
+    "2026-05-19"
+   ]
+  },
+  {
+   "kind": "conflict",
+   "text": "The patient has twice recorded an intention to raise the rash with a clinician but has not done so; it was specifically not mentioned at the 2026-06-09 GP appointment.",
+   "confidence": "",
+   "safety": false,
+   "evidence": [
+    "2026-05-27",
+    "2026-06-09"
+   ]
+  }
+ ],
+ "state": {
+  "medications": [
+   {
+    "name": "Propranolol",
+    "dose": "40mg once daily",
+    "status": "active",
+    "started": "2026-01-13",
+    "stopped": "",
+    "reason_stopped": "",
+    "dose_history": [
+     "2026-01-13: 20mg once daily, started as migraine prophylaxis",
+     "2026-04-06: stopped by the patient, unprompted, citing fatigue",
+     "2026-04-27: restarted at 20mg once daily",
+     "2026-07-07: increased to 40mg once daily by Dr. Alvarez"
+    ],
+    "evidence": [
+     "2026-01-13",
+     "2026-04-06",
+     "2026-04-27",
+     "2026-07-07",
+     "2026-07-15"
+    ]
+   },
+   {
+    "name": "Sumatriptan",
+    "dose": "50mg as needed, at the first sign of a migraine",
+    "status": "active",
+    "started": "2026-01-13",
+    "stopped": "",
+    "reason_stopped": "",
+    "dose_history": [],
+    "evidence": [
+     "2026-01-13",
+     "2026-01-24",
+     "2026-08-13"
+    ]
+   },
+   {
+    "name": "Amoxicillin",
+    "dose": "875mg twice daily (7-day course)",
+    "status": "stopped",
+    "started": "2026-05-19",
+    "stopped": "2026-05-23",
+    "reason_stopped": "Sinus symptoms had cleared and the patient wanted fewer medications while a rash resolved. Stopped two days early.",
+    "dose_history": [
+     "2025-09-12: 500mg three times daily for 10 days, stopped after 8 days",
+     "2026-05-19: 875mg twice daily for 7 days, stopped after 5 days"
+    ],
+    "evidence": [
+     "2025-09-12",
+     "2025-09-20",
+     "2026-05-19",
+     "2026-05-24"
+    ]
+   },
+   {
+    "name": "Ibuprofen (Advil)",
+    "dose": "Taken as needed for headaches; dose not recorded",
+    "status": "uncertain",
+    "started": "2025-07-06",
+    "stopped": "",
+    "reason_stopped": "",
+    "dose_history": [],
+    "evidence": [
+     "2025-07-06",
+     "2025-07-14",
+     "2025-08-18",
+     "2025-11-06"
+    ]
+   },
+   {
+    "name": "Diphenhydramine (Benadryl)",
+    "dose": "Taken at night during rash episodes",
+    "status": "stopped",
+    "started": "2025-09-18",
+    "stopped": "2026-05-27",
+    "reason_stopped": "Used only while the rashes were active.",
+    "dose_history": [],
+    "evidence": [
+     "2025-09-18",
+     "2026-05-24"
+    ]
+   }
+  ],
+  "allergies_and_reactions": [
+   {
+    "substance_or_exposure": "Amoxicillin 500mg three times daily",
+    "reaction": "Blotchy red rash, trunk and inner arms, spreading to the back. Itchy, no swelling or breathing difficulty. Resolved in ~3 days.",
+    "onset": "2025-09-17",
+    "resolution": "2025-09-23",
+    "patient_attribution": "A recently switched laundry detergent brand."
+   },
+   {
+    "substance_or_exposure": "Amoxicillin 875mg twice daily",
+    "reaction": "Blotchy red rash, same distribution as 2025. Itchy, no swelling or breathing difficulty. Resolved in ~3 days.",
+    "onset": "2026-05-22",
+    "resolution": "2026-05-27",
+    "patient_attribution": "Stress, or something eaten. The detergent theory was explicitly abandoned, the same brand having been in use for eight months."
+   }
+  ],
+  "conditions": [
+   "Migraine, aura-free presentation, diagnosed by Dr. Alvarez on 2026-01-13"
+  ],
+  "symptoms": [
+   {
+    "description": "Migraine: throbbing, usually behind the left eye, with light sensitivity and sometimes nausea",
+    "status": "active",
+    "first_recorded": "2025-07-06",
+    "most_recent": "2026-08-25",
+    "frequency": "1-2/month mid-2025, rising to 5 in Nov 2025; 1-2/month on propranolol; 5 in the 21 days off it (Apr 2026); 4 in Jun 2026; 2/month since the Jul 2026 increase to 40mg",
+    "trend": "improving"
+   },
+   {
+    "description": "Persistent fatigue, worst mid-afternoon",
+    "status": "active",
+    "first_recorded": "2026-01-16",
+    "most_recent": "2026-08-05",
+    "frequency": "Daily since propranolol started; eased during the April break off it; worsened again after the July dose increase",
+    "trend": "worsening"
+   },
+   {
+    "description": "Blotchy red rash, trunk and inner arms",
+    "status": "resolved",
+    "first_recorded": "2025-09-17",
+    "most_recent": "2026-05-27",
+    "frequency": "Two discrete episodes, eight months apart, each lasting about 3 days from peak",
+    "trend": "stable"
+   },
+   {
+    "description": "Sinus infection: facial ache, cheekbone and upper-tooth pain, congestion",
+    "status": "intermittent",
+    "first_recorded": "2025-09-02",
+    "most_recent": "2026-05-17",
+    "frequency": "Two treated episodes in this record; the patient noted a third in the preceding two years",
+    "trend": "stable"
+   },
+   {
+    "description": "Jaw clenching in sleep with neck and shoulder tightness",
+    "status": "active",
+    "first_recorded": "2025-11-25",
+    "most_recent": "2026-03-18",
+    "frequency": "Ongoing; molar wear noted at dental review, no treatment indicated",
+    "trend": "stable"
+   },
+   {
+    "description": "Brief dizziness on standing",
+    "status": "resolved",
+    "first_recorded": "2026-07-23",
+    "most_recent": "2026-08-20",
+    "frequency": "One episode, on the day the lowest recorded BP (100/64) was measured",
+    "trend": "improving"
+   }
+  ],
+  "conflicts": [
+   {
+    "description": "The record states no known drug allergies -- given on the intake form on 2025-09-12 and again to urgent care on 2026-05-19 -- yet a rash is documented following amoxicillin on both courses. The allergy record has never been revised.",
+    "evidence": [
+     "2025-09-12",
+     "2025-09-17",
+     "2026-05-19",
+     "2026-05-22"
+    ]
+   },
+   {
+    "description": "The 2026-05-19 amoxicillin prescription was issued at urgent care by a clinician who did not have access to the patient's records, so the September 2025 rash was not available to the prescriber.",
+    "evidence": [
+     "2026-05-19"
+    ]
+   },
+   {
+    "description": "The patient has twice recorded an intention to raise the rash with a clinician but has not done so; it was specifically not mentioned at the 2026-06-09 GP appointment.",
+    "evidence": [
+     "2026-05-27",
+     "2026-06-09"
+    ]
+   }
+  ],
+  "patterns_to_raise": [
+   {
+    "observation": "A rash of the same description appeared on two separate occasions, each within a few days of starting amoxicillin, and each resolved roughly three days after the antibiotic was stopped. First course started 2025-09-12, rash 2025-09-17, resolved 2025-09-23. Second course started 2026-05-19, rash 2026-05-22, resolved 2026-05-27. On the first occasion the patient attributed it to a new laundry detergent; on the second they ruled that out, the same brand having been in use for eight months, and offered no alternative explanation.",
+    "why_it_matters": "No drug allergy is recorded, and amoxicillin was prescribed again eight months after the first episode by a clinician without access to the earlier record. The two episodes were written eight months apart, in different words, and the patient has never connected them.",
+    "confidence": "moderate",
+    "safety_relevant": true,
+    "evidence": [
+     "2025-09-12",
+     "2025-09-17",
+     "2025-09-23",
+     "2026-05-19",
+     "2026-05-22",
+     "2026-05-27"
+    ]
+   },
+   {
+    "observation": "Migraine frequency moves inversely with propranolol adherence. On 20mg the patient averaged about two migraines a month. In the 21 days off it (2026-04-06 to 2026-04-27) they had five, including three in five days. After restarting, frequency returned to about two a month, rose to four in June 2026, and settled to two a month after the increase to 40mg on 2026-07-07.",
+    "why_it_matters": "An unplanned discontinuation produced a clean natural experiment, which the patient reported themselves on 2026-06-09.",
+    "confidence": "high",
+    "safety_relevant": false,
+    "evidence": [
+     "2026-04-06",
+     "2026-04-14",
+     "2026-04-18",
+     "2026-04-21",
+     "2026-04-27",
+     "2026-06-30",
+     "2026-07-07",
+     "2026-07-30"
+    ]
+   },
+   {
+    "observation": "Reported fatigue tracks propranolol dose. It began three days after starting 20mg (2026-01-16), was described as a persistent baseline through February and March, lifted within four days of stopping (2026-04-10), returned within a week of restarting (2026-05-04), and worsened again after the increase to 40mg (2026-07-15).",
+    "why_it_matters": "The patient has raised the fatigue as their main complaint about treatment and wants to know whether it is unavoidable.",
+    "confidence": "high",
+    "safety_relevant": false,
+    "evidence": [
+     "2026-01-16",
+     "2026-02-17",
+     "2026-04-10",
+     "2026-05-04",
+     "2026-07-15",
+     "2026-08-05"
+    ]
+   },
+   {
+    "observation": "The patient has repeatedly noted that migraines tend to follow a stretch of poor sleep by one to two days, and that quieter, better-slept periods coincided with fewer attacks.",
+    "why_it_matters": "This is the patient's own observation across several months rather than a measured association.",
+    "confidence": "low",
+    "safety_relevant": false,
+    "evidence": [
+     "2025-10-22",
+     "2025-12-14",
+     "2026-06-16"
+    ]
+   }
+  ],
+  "open_items": [
+   {
+    "item": "If migraine frequency increases or the pattern changes, consider brain imaging (MRI). Not urgent.",
+    "kind": "clinician_instruction",
+    "raised_on": "2026-06-09",
+    "still_open": true
+   },
+   {
+    "item": "Give the 40mg propranolol dose six weeks before judging its effectiveness. That six weeks elapsed on 2026-08-18.",
+    "kind": "clinician_instruction",
+    "raised_on": "2026-07-07",
+    "still_open": true
+   },
+   {
+    "item": "Whether 40mg is the right long-term dose.",
+    "kind": "patient_question",
+    "raised_on": "2026-08-25",
+    "still_open": true
+   },
+   {
+    "item": "Whether the constant tiredness is something to live with, or whether there is an alternative.",
+    "kind": "patient_question",
+    "raised_on": "2026-08-25",
+    "still_open": true
+   },
+   {
+    "item": "Whether the MRI is still needed, given things have settled.",
+    "kind": "patient_question",
+    "raised_on": "2026-08-25",
+    "still_open": true
+   },
+   {
+    "item": "The recurring rash -- added to the list of things to ask about, but not yet raised with any clinician.",
+    "kind": "patient_question",
+    "raised_on": "2026-05-27",
+    "still_open": true
+   },
+   {
+    "item": "Keep the headache diary going.",
+    "kind": "clinician_instruction",
+    "raised_on": "2026-01-13",
+    "still_open": false
+   }
+  ]
+ }
+}

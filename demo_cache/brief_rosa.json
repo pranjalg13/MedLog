@@ -1,0 +1,186 @@
+{
+ "markdown": "## Since the last visit\n\nRecovery is back on track after a physiotherapy lapse. Flexion has gone from 82 degrees\n[2026-06-26] to 105 [2026-08-24], and the patient returned to full duties [2026-08-15].\n\n## Current medications\n\n- **Paracetamol** and **ibuprofen** as needed [2026-04-25]\n- Oxycodone 5mg **stopped** [2026-04-25] after about eleven days, for fogginess and constipation\n- Cephalexin 500mg four times daily **completed** [2026-05-06]\n\n## What has changed\n\n- **Flexion:** 82 degrees [2026-06-26] to 90 [2026-07-10], 98 [2026-07-25], 105 [2026-08-24].\n- **Pain:** 3/10 [2026-07-10] to 2/10 [2026-07-25], now only after a long day [2026-08-05].\n- **Function:** off the stick indoors [2026-07-18], stairs foot-over-foot [2026-07-25], two\n  kilometres comfortably [2026-08-05], full work duties [2026-08-15].\n- Mild **evening swelling** of the operated knee persists [2026-08-05].\n\n## Worth asking about\n\nFlexion tracked physiotherapy adherence closely. Twice-daily exercises took it from 75 degrees\n[2026-05-13] to 88 [2026-05-28]. Roughly three weeks of missed sessions after returning to work\n[2026-06-11] saw it fall to 82 [2026-06-26]. Resuming twice daily [2026-07-03] recovered it to 90\nwithin a week [2026-07-10]. The patient identified the connection themselves [2026-06-19].\n\n## Open from last time\n\n- Once-daily exercises confirmed as appropriate at this stage [2026-08-15].\n- Earlier instruction to return if wound redness spread or fever developed [2026-04-29] \u2014\n  infection resolved [2026-05-06], closed.\n\n## The patient's questions\n\n- When cycling can resume [2026-08-24]\n- Whether evening swelling is expected this far post-operatively [2026-08-24]\n",
+ "since": "2026-06-26",
+ "until": "2026-08-24",
+ "entry_count": 8,
+ "flags": [
+  {
+   "kind": "pattern",
+   "text": "Knee flexion tracked physiotherapy adherence directly and measurably. Twice-daily exercises took flexion from 75 degrees on 2026-05-13 to 88 by 2026-05-28. Roughly three weeks of missed sessions after returning to work on 2026-06-11 saw it fall to 82 by 2026-06-26. Resuming twice daily on 2026-07-03 recovered it to 90 by 2026-07-10 and 105 by 2026-08-24.",
+   "confidence": "high",
+   "safety": false,
+   "evidence": [
+    "2026-05-13",
+    "2026-05-28",
+    "2026-06-11",
+    "2026-06-19",
+    "2026-06-26",
+    "2026-07-03",
+    "2026-07-10",
+    "2026-08-24"
+   ]
+  },
+  {
+   "kind": "pattern",
+   "text": "The wound infection was identified the day after the patient reported increasing redness, warmth, discharge and a temperature of 37.9 on 2026-04-28, and was treated the same day it was assessed. Redness had pulled back by day five of cephalexin.",
+   "confidence": "moderate",
+   "safety": false,
+   "evidence": [
+    "2026-04-28",
+    "2026-04-29",
+    "2026-05-03"
+   ]
+  }
+ ],
+ "state": {
+  "medications": [
+   {
+    "name": "Paracetamol",
+    "dose": "As needed for pain",
+    "status": "active",
+    "started": "2026-04-14",
+    "stopped": "",
+    "reason_stopped": "",
+    "dose_history": [],
+    "evidence": [
+     "2026-04-14",
+     "2026-04-25"
+    ]
+   },
+   {
+    "name": "Ibuprofen",
+    "dose": "As needed for pain",
+    "status": "active",
+    "started": "2026-04-25",
+    "stopped": "",
+    "reason_stopped": "",
+    "dose_history": [],
+    "evidence": [
+     "2026-04-25"
+    ]
+   },
+   {
+    "name": "Oxycodone",
+    "dose": "5mg every six hours as needed",
+    "status": "stopped",
+    "started": "2026-04-13",
+    "stopped": "2026-04-25",
+    "reason_stopped": "Fogginess and constipation; pain was manageable on paracetamol and ibuprofen by then. About eleven days of use.",
+    "dose_history": [],
+    "evidence": [
+     "2026-04-14",
+     "2026-04-25"
+    ]
+   },
+   {
+    "name": "Cephalexin",
+    "dose": "500mg four times daily for seven days",
+    "status": "stopped",
+    "started": "2026-04-29",
+    "stopped": "2026-05-06",
+    "reason_stopped": "Full course completed for a superficial wound infection.",
+    "dose_history": [],
+    "evidence": [
+     "2026-04-29",
+     "2026-05-03",
+     "2026-05-06"
+    ]
+   }
+  ],
+  "allergies_and_reactions": [],
+  "conditions": [
+   "Right total knee replacement, 2026-04-13",
+   "Superficial surgical wound infection, 2026-04-29, resolved"
+  ],
+  "symptoms": [
+   {
+    "description": "Post-operative knee pain",
+    "status": "active",
+    "first_recorded": "2026-04-14",
+    "most_recent": "2026-08-05",
+    "frequency": "8/10 at surgery, 7/10 by 2026-04-17, 5/10 through the wound infection, 3/10 by 2026-06-04, 2/10 from 2026-07-25 and only after a long day",
+    "trend": "improving"
+   },
+   {
+    "description": "Knee flexion (range of motion)",
+    "status": "active",
+    "first_recorded": "2026-05-13",
+    "most_recent": "2026-08-24",
+    "frequency": "75 degrees 2026-05-13, 88 by 2026-05-28, fell to 82 by 2026-06-26 during a physiotherapy lapse, 90 by 2026-07-10, 98 by 2026-07-25, 105 by 2026-08-24",
+    "trend": "improving"
+   },
+   {
+    "description": "Evening swelling of the operated knee",
+    "status": "active",
+    "first_recorded": "2026-04-17",
+    "most_recent": "2026-08-05",
+    "frequency": "Marked early, now mild and confined to the evenings four months post-operatively",
+    "trend": "improving"
+   },
+   {
+    "description": "Wound redness, warmth and yellowish discharge with temperature 37.9",
+    "status": "resolved",
+    "first_recorded": "2026-04-28",
+    "most_recent": "2026-05-06",
+    "frequency": "Single episode, treated with cephalexin, resolved within five days of starting",
+    "trend": "improving"
+   }
+  ],
+  "conflicts": [],
+  "patterns_to_raise": [
+   {
+    "observation": "Knee flexion tracked physiotherapy adherence directly and measurably. Twice-daily exercises took flexion from 75 degrees on 2026-05-13 to 88 by 2026-05-28. Roughly three weeks of missed sessions after returning to work on 2026-06-11 saw it fall to 82 by 2026-06-26. Resuming twice daily on 2026-07-03 recovered it to 90 by 2026-07-10 and 105 by 2026-08-24.",
+    "why_it_matters": "A documented regression and recovery in the same patient, which the patient themselves connected at the time.",
+    "confidence": "high",
+    "safety_relevant": false,
+    "evidence": [
+     "2026-05-13",
+     "2026-05-28",
+     "2026-06-11",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-08-24"
+    ]
+   },
+   {
+    "observation": "The wound infection was identified the day after the patient reported increasing redness, warmth, discharge and a temperature of 37.9 on 2026-04-28, and was treated the same day it was assessed. Redness had pulled back by day five of cephalexin.",
+    "why_it_matters": "Shows a short interval between the patient noticing a change and it being assessed, which is relevant context for how promptly this patient reports problems.",
+    "confidence": "moderate",
+    "safety_relevant": false,
+    "evidence": [
+     "2026-04-28",
+     "2026-04-29",
+     "2026-05-03"
+    ]
+   }
+  ],
+  "open_items": [
+   {
+    "item": "When cycling can resume.",
+    "kind": "patient_question",
+    "raised_on": "2026-08-24",
+    "still_open": true
+   },
+   {
+    "item": "Whether evening swelling is expected this far post-operatively.",
+    "kind": "patient_question",
+    "raised_on": "2026-08-24",
+    "still_open": true
+   },
+   {
+    "item": "Return immediately if wound redness spreads or a fever develops.",
+    "kind": "clinician_instruction",
+    "raised_on": "2026-04-29",
+    "still_open": false
+   },
+   {
+    "item": "Physiotherapy exercises once daily is appropriate at this stage.",
+    "kind": "clinician_instruction",
+    "raised_on": "2026-08-15",
+    "still_open": true
+   }
+  ]
+ }
+}

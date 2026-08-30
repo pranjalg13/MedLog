@@ -1,0 +1,127 @@
+patient:
+  id: arjun
+  name: Arjun Nair
+  year_of_birth: 1964
+  profile: >-
+    62, retired schoolteacher. Type 2 diabetes and high blood pressure, several
+    medications, and a habit of under-reporting them when asked.
+
+# Exercises reconciliation and conflict detection:
+#   - metformin 500mg BD -> 1000mg BD (2026-01-20)
+#   - lisinopril 10mg -> 20mg (2026-03-11)
+#   - amlodipine STOPPED 2025-12-08 for ankle swelling, but still listed by the
+#     patient as current on 2026-06-15  (over-report of a stopped drug)
+#   - atorvastatin 20mg taken continuously, yet on 2026-04-02 the patient states
+#     they take nothing for cholesterol  (under-report of an active drug)
+
+entries:
+  - date: 2025-09-10
+    text: |
+      Starting a health log at my daughter's insistence. Current situation: type 2 diabetes
+      diagnosed six years ago, high blood pressure. I take metformin 500mg twice a day,
+      lisinopril 10mg in the morning, amlodipine 5mg in the morning, and atorvastatin 20mg
+      at night.
+
+  - date: 2025-09-24
+    text: |
+      Fasting sugar 142 this morning. Higher than I'd like. Walking most days but the
+      weather has been against me.
+
+  - date: 2025-10-08
+    text: |
+      BP 148/88 at the pharmacy machine. Ankles have been puffy in the evenings, especially
+      after a long day standing.
+
+  - date: 2025-10-21
+    text: |
+      Ankle swelling is worse. Socks leave deep marks. Mentioned it to my wife who says I
+      should stop ignoring it.
+
+  - date: 2025-11-05
+    text: |
+      Fasting sugars running 138 to 155 over the past two weeks. Not great.
+
+  - date: 2025-11-19
+    text: |
+      Saw Dr. Whitfield. Ankle swelling is likely the amlodipine, apparently a common thing
+      with it. Going to stop it and see. Blood pressure will be watched.
+
+  - date: 2025-12-08
+    text: |
+      Stopped the amlodipine three weeks ago now and the ankle swelling has almost entirely
+      gone. Socks no longer leave marks. Still on lisinopril 10mg, metformin 500mg twice
+      daily, atorvastatin 20mg at night.
+
+  - date: 2025-12-20
+    text: |
+      BP 144/86. Higher than before, which is presumably what happens when you drop a blood
+      pressure tablet. Trade-off for the ankles.
+
+  - date: 2026-01-07
+    text: |
+      HbA1c came back at 8.1. Dr. Whitfield was not delighted. Appointment booked.
+
+  - date: 2026-01-20
+    text: |
+      Metformin increased from 500mg twice a day to 1000mg twice a day. Told to expect some
+      stomach upset for a couple of weeks and to take it with meals.
+
+  - date: 2026-02-03
+    text: |
+      The stomach upset is real. Loose bowels most mornings for the past fortnight. Sticking
+      with it as instructed.
+
+  - date: 2026-02-18
+    text: |
+      Stomach has settled. Fasting sugars 118 to 130, much better than the autumn.
+
+  - date: 2026-03-11
+    text: |
+      BP still running high, 146/90 in the surgery. Lisinopril increased from 10mg to 20mg
+      once daily. No plans to restart the amlodipine given the ankles.
+
+  - date: 2026-03-25
+    text: |
+      BP 132/82. Better. Slight dry cough but I've had that on and off for years.
+
+  - date: 2026-04-02
+    text: |
+      New physiotherapist for my shoulder asked me to list my medications. I said metformin
+      1000mg twice a day, lisinopril 20mg, and amlodipine. Told her I don't take anything
+      for cholesterol. Straightforward enough.
+
+  - date: 2026-04-16
+    text: |
+      Fasting sugar 121. Walking 30 minutes most days now that spring has arrived.
+
+  - date: 2026-05-06
+    text: |
+      HbA1c down to 7.2. Dr. Whitfield pleased. Keeping everything as is.
+
+  - date: 2026-05-20
+    text: |
+      BP 128/78. Ankles fine. Cough still there occasionally, mostly at night.
+
+  - date: 2026-06-15
+    text: |
+      Filled in a pre-op form for my cataract assessment. Listed metformin, lisinopril,
+      amlodipine and my eye drops. Took me a while to remember the doses.
+
+  - date: 2026-07-01
+    text: |
+      Fasting sugars steady, 115 to 125. Feeling better than I have in a year or two.
+
+  - date: 2026-07-22
+    text: |
+      Ran out of the atorvastatin for four days before the pharmacy sorted the repeat.
+      Back on it now, 20mg at night as usual.
+
+  - date: 2026-08-12
+    text: |
+      BP 130/80. Sugars steady. The night cough is still there and I'd like to ask whether
+      the lisinopril could be behind it.
+
+  - date: 2026-08-26
+    text: |
+      Review appointment coming up. Want to ask about the cough, and whether the metformin
+      dose is right long term.

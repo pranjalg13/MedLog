@@ -1,0 +1,2206 @@
+{
+ "maya": {
+  "2025-07-06": [
+   {
+    "id": "1496a2a4-07d1-4144-987a-7c68c0fe8d7b",
+    "memory": "User experiences throbbing headaches behind the left eye about one or two times per month",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "714b4be4-905b-4f33-94e4-3836a3e96e0b",
+    "memory": "User describes the headaches as not an emergency but annoying",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "721bceb1-df25-4899-b74f-d4043ee25c07",
+    "memory": "User treats these headaches with Advil when caught early enough",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "be71c6d0-6490-41e2-9610-fd408bb7b219",
+    "memory": "Dr. Alvarez advised the patient to write things down to help remember for appointments",
+    "categories": [
+     "clinician_instruction"
+    ]
+   }
+  ],
+  "2025-07-14": [
+   {
+    "id": "0ac1a2d7-f784-4941-a9af-e3d9e27f40d8",
+    "memory": "User took two Advil tablets around 3\u202fpm on 2025-07-14, and the headache was mostly gone by evening",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "fbd3b2b3-0d37-483f-ad39-2edc3485f887",
+    "memory": "User experienced a headache on 2025-07-14 that started around 2\u202fpm, was on the right side (unusual), worsened by office light, and worked in a dark meeting room for two hours like a vampire",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-07-21": [
+   {
+    "id": "128c1835-b5c1-413f-be17-ce9040b802d2",
+    "memory": "User reports no health issues to note",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "462f70ff-ce1b-485a-8aba-7a04f4c00e46",
+    "memory": "User slept badly for three nights during the launch week (the week of July 14\u201320, 2025), averaging about five hours of sleep per night",
+    "categories": [
+     "symptom",
+     "lifestyle"
+    ]
+   }
+  ],
+  "2025-07-29": [
+   {
+    "id": "43ef0db8-8a36-4657-9e94-caddc96e933a",
+    "memory": "User has been drinking about four cups of coffee on some days, more than usual, as of 2025-07-29",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "c1a2f06e-d8a7-4fc7-8fba-28db7eddd071",
+    "memory": "User experienced a mild headache on 2025-07-29, which is the second headache this month",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "cb002843-947b-4b73-993c-6b327c7372bf",
+    "memory": "User wonders whether the increased coffee consumption is related to the headache",
+    "categories": [
+     "symptom",
+     "lifestyle",
+     "care_question"
+    ]
+   }
+  ],
+  "2025-08-04": [
+   {
+    "id": "60d77374-ee75-468d-9ec5-e731777eded4",
+    "memory": "User reports no headache for over a week as of 2025-08-04",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "c0e48e34-83da-43eb-b6ab-703b28339902",
+    "memory": "User reports sleeping better as of 2025-08-04 now that the launch shipped",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2025-08-11": [
+   {
+    "id": "507909b5-faf9-44ae-8a6e-6455616dbf55",
+    "memory": "User rolled their ankle on a trail on Saturday, August 9, 2025; the ankle was swollen and purple but they could still walk, they are icing it and do not intend to bother anyone about it",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-08-18": [
+   {
+    "id": "17ab1f6b-2812-40b1-83ff-fb91efbb680c",
+    "memory": "User reports the ankle is basically fine on August 18, 2025",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "78d67601-2e28-453b-83ad-f46044e2e41e",
+    "memory": "User had a headache behind the left eye on Thursday, August 14, 2025, and took Advil",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2025-08-25": [
+   {
+    "id": "46a1d4fa-a346-481b-934c-3b82d97bd45e",
+    "memory": "User reports three headaches in August 2025, slightly more than usual",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-09-02": [
+   {
+    "id": "82dd7b13-2e52-46c5-a696-8b8941588067",
+    "memory": "User woke up on 2025-09-02 with facial aching, especially the cheekbones and forehead, experienced constant nasal blowing, and suspects a sinus issue, noting this is the third sinus episode in two years",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-09-08": [
+   {
+    "id": "2f4a9d8a-9ab2-4722-8a0a-c2cab70f9b33",
+    "memory": "User experiences pressure when bending over and aching of upper teeth, which they attribute to the sinus issue",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "cd6d62ff-cd0b-4d91-8648-bde4b2da1fc3",
+    "memory": "User reports that sinus symptoms have not improved for one week as of September 8, 2025",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "fa6b18ec-f20c-477b-b5b2-08b098ce62a9",
+    "memory": "User plans to book a medical appointment for the sinus problem",
+    "categories": [
+     "symptom",
+     "care_question"
+    ]
+   }
+  ],
+  "2025-09-12": [
+   {
+    "id": "00f8ae19-adf8-4d77-bef2-6dbaa5aac41d",
+    "memory": "User was instructed by Dr. Alvarez to complete the entire ten\u2011day course of amoxicillin even if symptoms improve, as of September 12, 2025",
+    "categories": [
+     "medication",
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "8b936253-a1d7-419d-b622-ac781b049e3b",
+    "memory": "User reported having no known drug allergies on September 12, 2025, indicating \"none\" on the intake paperwork",
+    "categories": [
+     "allergy_intolerance"
+    ]
+   },
+   {
+    "id": "e0a23222-3948-4674-ba9c-a91bf7a90a03",
+    "memory": "User was prescribed amoxicillin 500\u202fmg to be taken three times daily for ten days, starting September 12, 2025, for the sinus infection",
+    "categories": [
+     "medication",
+     "condition",
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "fba3acd6-f102-4a9e-946b-1a717a49f72c",
+    "memory": "User saw Dr. Alvarez on September 12, 2025 for a bacterial sinus infection",
+    "categories": [
+     "condition"
+    ]
+   }
+  ],
+  "2025-09-15": [
+   {
+    "id": "38eaf60a-4c85-4e00-ab18-461db9d319ac",
+    "memory": "User now takes amoxicillin with food after the first dose was taken on an empty stomach, which they consider a mistake",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "39ec85b8-b4d9-487b-af1e-3adc73f9545e",
+    "memory": "User is on day three of the amoxicillin course (September 14, 2025) and reports sinus pressure noticeably better",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence"
+    ]
+   }
+  ],
+  "2025-09-17": [
+   {
+    "id": "ec9524bd-3c2f-4aa8-932d-51811f1ba58b",
+    "memory": "User woke up on 2025-09-17 with a rash of small flat red blotches across the stomach and the inside of both arms, some joining into larger patches; the rash was itchy but not unbearable, with no swelling of the face or lips and breathing remained fine; User switched laundry detergent brands about a week earlier (early September 2025) and suspects it as a trigger.",
+    "categories": [
+     "symptom",
+     "allergy_intolerance"
+    ]
+   }
+  ],
+  "2025-09-18": [
+   {
+    "id": "75de1d7f-8393-4315-ac73-f3a49249e50d",
+    "memory": "User reports that the rash persists on September 18, 2025, has spread to the upper back in addition to the stomach and arms, remains itchy, took Benadryl before bedtime, and washed all items in the old detergent to rule it out as a trigger",
+    "categories": [
+     "symptom",
+     "medication",
+     "allergy_intolerance"
+    ]
+   }
+  ],
+  "2025-09-20": [
+   {
+    "id": "032f5f34-5919-477d-b399-845a1946b4f4",
+    "memory": "User called the office about the rash and spoke with the nurse line",
+    "categories": [
+     "symptom",
+     "allergy_intolerance",
+     "care_question"
+    ]
+   },
+   {
+    "id": "0d395c05-0dde-4f58-8cf1-3325db365631",
+    "memory": "User reports the rash is fading at the edges",
+    "categories": [
+     "symptom",
+     "allergy_intolerance"
+    ]
+   },
+   {
+    "id": "df1a2e53-080e-472a-b1ea-85d1136e041d",
+    "memory": "User was advised by the nurse to stop amoxicillin after completing eight of the ten prescribed days because the infection had cleared, and discontinued the medication around September 19, 2025",
+    "categories": [
+     "medication",
+     "clinician_instruction",
+     "adherence"
+    ]
+   }
+  ],
+  "2025-09-23": [
+   {
+    "id": "4e080141-9244-474a-ac4e-89d24f6ba1d0",
+    "memory": "User reports that as of September 23, 2025 the rash is basically gone after three days, and believes it was caused by the detergent, deciding to stay off that brand",
+    "categories": [
+     "symptom",
+     "allergy_intolerance",
+     "lifestyle"
+    ]
+   }
+  ],
+  "2025-10-05": [
+   {
+    "id": "5626f67d-02a8-4cd3-9e09-cc84af488d49",
+    "memory": "User experienced two headaches during the week of 2025-10-05, both on the left side, described as throbbing with light sensitivity; Advil was taken for the second headache but provided minimal relief",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2025-10-13": [
+   {
+    "id": "b15b0e55-fec5-4b87-ac72-817bbfc02c45",
+    "memory": "User experienced a headache accompanied by nausea on 2025-10-13, required lying down in a dark room for three hours, and, after searching online, considered it might be a migraine",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-10-22": [
+   {
+    "id": "04b4b768-24dd-4d41-b2d2-6ee8f98d32dd",
+    "memory": "User reports four headaches in October 2025",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "5606563b-ac25-40ab-aedf-58513f346ec8",
+    "memory": "User notes that headaches often occur one or two days after a period of poor sleep",
+    "categories": [
+     "symptom",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "791dd562-4146-49fd-8f5d-ea7bcc94c815",
+    "memory": "User has started tracking/noting their sleep patterns",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2025-10-30": [
+   {
+    "id": "36a36c9a-ef05-4b36-a893-98ba07b4294d",
+    "memory": "User slept approximately seven hours per night during the quiet week ending on 2025-10-30",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "b1862a8e-79e5-4f27-87fc-83a2da2ef0dc",
+    "memory": "User reports no headaches from 2025-10-22 through 2025-10-30",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-11-06": [
+   {
+    "id": "213382b7-19f7-4fcc-b6f6-c312648be381",
+    "memory": "User experienced a migraine on Thursday, November 6, 2025, did not take Advil, and described it as awful",
+    "categories": [
+     "symptom",
+     "adherence"
+    ]
+   },
+   {
+    "id": "35e8467a-5258-4e86-8379-f7f591f94e0e",
+    "memory": "User now refers to their headaches as migraines",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "7727ec03-bbfe-4d97-b81f-22afd17b90d2",
+    "memory": "User experienced a migraine on Tuesday, November 4, 2025, caught early with Advil, which kept it manageable",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2025-11-12": [
+   {
+    "id": "235ff94c-f5ce-46d9-bf99-625016951c75",
+    "memory": "User plans to ask their clinician whether the headaches are actually migraines, whether there is a medication better than Advil, and whether the increasing frequency of headaches is concerning.",
+    "categories": [
+     "care_question"
+    ]
+   },
+   {
+    "id": "49ffd766-c681-46e5-9020-3d8e4989bc7b",
+    "memory": "User booked a non\u2011urgent medical appointment for January 2026, the earliest available slot.",
+    "categories": [
+     "procedure_or_test"
+    ]
+   }
+  ],
+  "2025-11-19": [
+   {
+    "id": "5877e643-e841-4eb8-88bd-f5ff160647b9",
+    "memory": "User reports sleeping about five and a half hours per night recently, describing sleep as bad again",
+    "categories": [
+     "lifestyle",
+     "symptom"
+    ]
+   },
+   {
+    "id": "9c89fb97-23be-4cfa-90b0-510232921a22",
+    "memory": "User reports five headaches in November 2025",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "fbba5f9e-9c11-4a76-b06c-c0ea6c32fada",
+    "memory": "User reports work is genuinely stressful because of a reorganization",
+    "categories": [
+     "social_context",
+     "symptom"
+    ]
+   }
+  ],
+  "2025-11-25": [
+   {
+    "id": "94447d24-c727-43ee-924e-318a5ef38ea2",
+    "memory": "On November 25, 2025, User's partner says they clench their jaw in their sleep",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "9a5c3a77-79ec-465d-8543-f56a5354f5cd",
+    "memory": "On November 25, 2025, User reports neck and shoulders are permanently tight",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-12-03": [
+   {
+    "id": "b32fcc89-ad79-4a5d-9d08-01955a8d0596",
+    "memory": "User experienced a migraine on Monday, December 1, 2025, took the day off (the first sick day they have ever taken for a headache), and was unable to look at a screen.",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-12-14": [
+   {
+    "id": "2b7d681c-d14c-4ede-adb0-348c7df0d2ab",
+    "memory": "User reports that during the holiday period in December 2025 they are experiencing less work stress",
+    "categories": [
+     "symptom",
+     "social_context"
+    ]
+   },
+   {
+    "id": "53dec5fa-cd51-44d2-a284-69831f30b8d9",
+    "memory": "User suspects that the reduced work stress and increased sleep are contributing to the lower number of headaches this month",
+    "categories": [
+     "symptom",
+     "lifestyle",
+     "social_context"
+    ]
+   },
+   {
+    "id": "cc2f4502-25ca-422e-b320-894c016b006e",
+    "memory": "User notes that they are sleeping more during the holiday period in December 2025",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "fff94029-0592-4261-8ef2-d0582df7ceb5",
+    "memory": "User has had only two headaches/migraines in December 2025 up to December 14, 2025",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-12-22": [
+   {
+    "id": "5e2dbb47-2f93-49b8-b931-561d4de29631",
+    "memory": "User traveled to their parents' house for the holidays on December 22, 2025",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "6b91e9bf-304d-4883-a405-472dc228a31a",
+    "memory": "User did not experience any headache during the flight on December 22, 2025",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-12-30": [
+   {
+    "id": "8a0ed459-1ca8-4afb-b70c-59d6a8b15b73",
+    "memory": "User's medical appointment is scheduled for January 13, 2026 (two weeks after December 30, 2025)",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "91779ecd-f1e7-4224-a795-b8b0d640d1d3",
+    "memory": "User reports three headaches/migraines in December 2025 total, noting it is better than the count in November 2025",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-01-13": [
+   {
+    "id": "5d6206ce-2da0-467d-8f2c-ee86b41d6fb2",
+    "memory": "Dr. Alvarez advised the user to keep the headache diary going, noting it was genuinely useful",
+    "categories": [
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "a20f966f-1b60-49a1-b8c9-664b1f4ac31e",
+    "memory": "User had a GP appointment with Dr. Alvarez, who diagnosed the condition as migraine with aura-free presentation, matching the user's described symptoms",
+    "categories": [
+     "condition"
+    ]
+   },
+   {
+    "id": "a7261c77-fcb2-452c-bf00-4d837a728fa0",
+    "memory": "User was prescribed sumatriptan 50\u202fmg to take at the first sign of a migraine and propranolol 20\u202fmg once daily as preventive therapy; propranolol is taken regardless of headache occurrence",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "c175b1df-9042-42ed-9bd2-856237391fa4",
+    "memory": "Dr. Alvarez warned that propranolol can cause tiredness and lower blood pressure and advised the user to continue it for two months before judging its effectiveness",
+    "categories": [
+     "medication",
+     "clinician_instruction"
+    ]
+   }
+  ],
+  "2026-01-16": [
+   {
+    "id": "3d038d3a-29ac-4f53-acd6-2e22f61ca6de",
+    "memory": "User is on day three of propranolol 20\u202fmg as of 2026-01-16",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "e796fdee-33c6-4121-8156-85f0ae4f7ff4",
+    "memory": "User feels noticeably more tired in the afternoons on 2026-01-16",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-01-24": [
+   {
+    "id": "7337ef5d-e3bc-4543-9789-2dd9164fd6af",
+    "memory": "User experienced their first migraine since starting treatment on 2026-01-24",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "e6ae6d92-6a30-424c-ac95-18445580d32b",
+    "memory": "User took sumatriptan about 20 minutes after migraine onset on 2026-01-24, and the migraine resolved in approximately 1.5 hours, which they found remarkable compared to previous episodes that required lying in the dark for three hours",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence",
+     "condition"
+    ]
+   }
+  ],
+  "2026-01-29": [
+   {
+    "id": "367ede99-7844-4cd0-9630-0ff38e1475be",
+    "memory": "User measured blood pressure this morning at 104/68",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "51c1dc23-bdb1-45a1-8b27-8df23b89a20f",
+    "memory": "User bought a blood pressure cuff because they were curious",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "b38545dc-075a-4035-9f53-4e2989d99486",
+    "memory": "User noted the 104/68 reading is lower than they remember, attributing the lower pressure to propranolol",
+    "categories": [
+     "medication",
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-02-08": [
+   {
+    "id": "922ea7b4-211c-4129-bace-559ff345fe1a",
+    "memory": "User had two migraines in January 2026, both treated with sumatriptan",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   },
+   {
+    "id": "a854c24a-62c9-4494-958f-e46790b45cab",
+    "memory": "User feels cautiously optimistic",
+    "categories": []
+   }
+  ],
+  "2026-02-17": [
+   {
+    "id": "16ee1866-0fc2-4585-9791-334a3686c698",
+    "memory": "User reports persistent fatigue that is not due to propranolol settling, describing a baseline tiredness on 2026-02-17",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "fb5b507f-d446-48bd-be66-8abb9e9bf913",
+    "memory": "User notes that in the afternoons around 3\u202fpm on 2026-02-17 they hit a wall due to the ongoing fatigue",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-02-25": [
+   {
+    "id": "42c626ed-e9a7-4be5-af8f-a465babb306c",
+    "memory": "User had one migraine in February 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "a8488ea6-a74a-4807-b284-101cb8e999cb",
+    "memory": "User is sleeping better, averaging seven and a half hours per night on most nights",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-03-09": [
+   {
+    "id": "31a7b2e7-9225-4474-990a-698d1ebbc806",
+    "memory": "User experienced two mild migraines in March 2026, both caught early with sumatriptan",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   },
+   {
+    "id": "64ff76c6-afca-4521-b913-32cf887d1e02",
+    "memory": "User recorded a blood pressure reading of 102/66 on March 9, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-03-18": [
+   {
+    "id": "88d89273-1b12-4503-a317-22df85b879a1",
+    "memory": "User had a routine dental cleaning on March 18, 2026, with no issues; the dentist noted jaw clenching and observed molar wear but indicated no treatment was needed",
+    "categories": [
+     "procedure_or_test"
+    ]
+   }
+  ],
+  "2026-03-27": [
+   {
+    "id": "0b00a514-4a48-418d-b9ef-0c3cdab69b12",
+    "memory": "User is 34 years old",
+    "categories": []
+   },
+   {
+    "id": "7d7c0572-774f-4cbc-b92f-a7ff88131ef0",
+    "memory": "User reports taking frequent naps, describing them as \"like a toddler\" in March 2026",
+    "categories": [
+     "symptom",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "a1f0c3dc-cf87-4295-a4ad-7882628060f4",
+    "memory": "User reports feeling resentful toward their persistent tiredness, stating it is the only real complaint in March 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-06": [
+   {
+    "id": "11ae3260-2b30-4e01-bc23-3588d9ccb597",
+    "memory": "User reports that migraines have been under control as of 2026-04-06",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "7546db16-f93d-4f5a-b138-fbf0f9bd4477",
+    "memory": "User has been exhausted for three months straight as of 2026-04-06",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "c77f73d7-10f0-4919-a8f2-54dec26310ea",
+    "memory": "User wants to know whether the prolonged exhaustion is caused by propranolol or other factors",
+    "categories": [
+     "care_question"
+    ]
+   },
+   {
+    "id": "cb186a62-2f26-40cf-881b-b685dd524238",
+    "memory": "User stopped taking propranolol on 2026-04-06",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "db45d25b-6a3e-491b-8e3f-d638629cb017",
+    "memory": "User still has sumatriptan 50\u202fmg available for use as needed as of 2026-04-06",
+    "categories": [
+     "medication"
+    ]
+   }
+  ],
+  "2026-04-10": [
+   {
+    "id": "53dd3389-555e-493e-93ec-7f4dd7edf4dd",
+    "memory": "User reports no headache yet as of 2026-04-10",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "b644247b-6f1f-4ea6-aebe-cd4c5edb6062",
+    "memory": "User reports being off it for four days as of 2026-04-10",
+    "categories": [
+     "adherence"
+    ]
+   },
+   {
+    "id": "ec85d3d1-aef9-4eda-ad7d-44a210c80e3b",
+    "memory": "User reports less foggy in the afternoons as of 2026-04-10",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-14": [
+   {
+    "id": "51577925-8ab3-4933-9546-0bdb408a0ec2",
+    "memory": "User experienced migraines on 2026-04-13 and 2026-04-14, two consecutive days, which they note had not happened since November 2025; sumatriptan was taken for both episodes and was effective, and the user feels rattled.",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2026-04-18": [
+   {
+    "id": "177c38bb-a13a-4f4a-9188-29dc0359b805",
+    "memory": "User experienced a third migraine on 2026-04-18, bringing the total to three migraines within five days, which the user says is worse than any period all year",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-21": [
+   {
+    "id": "1bb850d7-a632-4cd0-a906-8c55569bf26e",
+    "memory": "User had five migraines in the sixteen days after stopping propranolol",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "468ac1e3-990c-4aeb-bbaa-e9b307d6a20a",
+    "memory": "User does not love propranolol and believes they have their answer",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "a29318db-1deb-4652-a35d-3d0e244f951a",
+    "memory": "User averaged two migraines per month while taking propranolol",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2026-04-27": [
+   {
+    "id": "43c75999-7cbe-490c-afd0-c2f9c503db37",
+    "memory": "User plans to tell Dr. Alvarez about restarting propranolol at the next appointment, though they are not thrilled about admitting it",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "48a9f22b-e218-425c-abda-bb93c470b3d6",
+    "memory": "User was off propranolol for 21 days (from 2026-04-06 to 2026-04-27), during which they experienced five migraines, compared to about two migraines per month while taking it",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence"
+    ]
+   },
+   {
+    "id": "70672366-5bca-4145-a3f9-20e4f4ae0047",
+    "memory": "User noted that the experience taught them a lesson, which they described as expensive",
+    "categories": []
+   },
+   {
+    "id": "f5d66ecd-eb07-433c-a0e1-e1a9d8bfa939",
+    "memory": "User restarted propranolol 20mg on 2026-04-27",
+    "categories": [
+     "medication"
+    ]
+   }
+  ],
+  "2026-05-04": [
+   {
+    "id": "3af9f69a-e374-42e3-b0f3-bf0a897f2c89",
+    "memory": "User has been taking propranolol 20mg once daily for one week as of 2026-05-04",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "74c30995-273a-4f6c-b7e4-d46867cb3ed1",
+    "memory": "User reports that tiredness is creeping back",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "9c353c51-5c8a-4268-ae13-6938eea7a321",
+    "memory": "User experienced one migraine in the week leading up to 2026-05-04",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-05-11": [
+   {
+    "id": "86da6723-6ae1-4ad2-ab2b-73f8b58c78cc",
+    "memory": "User reports a quiet week on 2026-05-11",
+    "categories": []
+   },
+   {
+    "id": "955c1420-ebcc-4bf0-82ac-65389b42a9cc",
+    "memory": "User recorded blood pressure of 106/70 on 2026-05-11",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-05-17": [
+   {
+    "id": "8259ad2a-14d9-4d66-a547-effd494e908b",
+    "memory": "User reports sinus pressure recurrence on 2026-05-17, describing the same facial ache and blocked-up feeling experienced in autumn 2025, with sore cheekbones and aching upper teeth",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-05-19": [
+   {
+    "id": "33b0a503-d7a8-4d85-a604-0a2450b38e0d",
+    "memory": "User was diagnosed with a sinus infection at urgent care on May 19, 2026 and was prescribed amoxicillin 875mg twice a day for seven days",
+    "categories": [
+     "condition",
+     "medication"
+    ]
+   },
+   {
+    "id": "6db1319a-9a8f-4eb0-81d6-ee6b0734e586",
+    "memory": "User visited urgent care at Meridian on May 19, 2026 because they could not get an appointment with Dr. Alvarez",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "86157e8b-6ab0-43e3-90a6-eb8851535f5b",
+    "memory": "User reported having no known allergies when asked by the urgent care provider",
+    "categories": [
+     "allergy_intolerance"
+    ]
+   },
+   {
+    "id": "92671100-a109-4b53-b0b6-d91c77b3eacf",
+    "memory": "The urgent care physician did not have the user's medical records",
+    "categories": [
+     "social_context"
+    ]
+   }
+  ],
+  "2026-05-22": [
+   {
+    "id": "71cdde17-70e4-4548-950b-b6dba5039fbc",
+    "memory": "User reports that on May 22, 2026, the blotchy rash returned on the stomach, inner arms, and spreading toward the back, described as flat red patches running together and itchy; face and lips are normal and there is no trouble breathing; the user notes they have been using the same laundry detergent for eight months, so the previous detergent theory is dismissed and they consider stress or something they ate as possible triggers",
+    "categories": [
+     "symptom",
+     "allergy_intolerance",
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-05-24": [
+   {
+    "id": "0ac430fc-aae9-49ab-ad1e-171139bb7508",
+    "memory": "User reports that the rash is worsening, with increased involvement on the back, on 2026-05-24",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "ce838ab0-6e3a-4221-92a1-a81d473a3002",
+    "memory": "User stopped amoxicillin on 2026-05-23, two days earlier than the prescribed 7\u2011day course, because sinus symptoms cleared and they wanted fewer medications while the rash resolves",
+    "categories": [
+     "medication",
+     "adherence",
+     "symptom",
+     "allergy_intolerance"
+    ]
+   }
+  ],
+  "2026-05-27": [
+   {
+    "id": "01227498-6451-4fab-a3e6-eee9500bb0d7",
+    "memory": "User reports that the rash was gone on 2026-05-27, about three days after it peaked",
+    "categories": [
+     "symptom",
+     "allergy_intolerance"
+    ]
+   },
+   {
+    "id": "4bd24690-f2d9-4cb0-98b6-8361a0912676",
+    "memory": "User notes that the rash comes and goes quickly and adds it to the list of things to ask the clinician about",
+    "categories": [
+     "symptom",
+     "allergy_intolerance",
+     "care_question"
+    ]
+   }
+  ],
+  "2026-06-02": [
+   {
+    "id": "3a15e167-093c-43f4-b3fd-4676afb0c895",
+    "memory": "User reports two migraines in May 2026, which is about the usual since restarting",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-06-09": [
+   {
+    "id": "194c11ff-a8c1-47eb-8989-9cf414754e78",
+    "memory": "User did not mention the recurring rash to Dr. Alvarez during the GP appointment",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "1bf9c056-6c5f-428d-8e3f-6c191533a847",
+    "memory": "User decided to continue taking propranolol 20\u202fmg once daily after the GP appointment on 2026-06-09",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "2f6ca277-9006-4d74-95fd-99393bbcb2a5",
+    "memory": "User noted that if headache frequency increases or the pattern changes, they should consider brain imaging such as an MRI, but it is not urgent",
+    "categories": [
+     "symptom",
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "84559a32-a9ec-4abc-8a40-58322449965e",
+    "memory": "User had a GP appointment on 2026-06-09 and told Dr. Alvarez that they stopped propranolol in April and experienced five migraines after stopping",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence",
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "f0e3e9ff-7aab-430a-af70-ce858f5be4b6",
+    "memory": "Dr. Alvarez responded with \"well, that's useful data\" during the GP appointment",
+    "categories": []
+   }
+  ],
+  "2026-06-16": [
+   {
+    "id": "23c0d0fa-28e4-40fc-9002-515cc7c43181",
+    "memory": "User noted that a new project is starting this week",
+    "categories": []
+   },
+   {
+    "id": "cb843eac-0a88-4e47-9a66-68f2a9bb2e68",
+    "memory": "User experienced one migraine during the week of June 13, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "e0c71898-c2da-44f6-9781-133b1c708799",
+    "memory": "User reported sleeping poorly this week, averaging about six hours per night",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-06-24": [
+   {
+    "id": "ddeacaf4-54a4-4031-9e5e-d8aa01b1e677",
+    "memory": "User experienced three migraines in June 2026, noting the frequency is creeping up compared to February and March 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-06-30": [
+   {
+    "id": "b7608d3d-54eb-46c0-b7d4-8d3d57bdd50c",
+    "memory": "User had four migraines in June 2026 (by the end of the month), which is double the number they were averaging in the spring",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-07-07": [
+   {
+    "id": "37c16c5d-a285-4b17-86d1-474e20f35fe9",
+    "memory": "User's propranolol dose was increased to 40\u202fmg once daily on 2026-07-07 by Dr. Alvarez, up from 20\u202fmg",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "666e3b30-3413-405d-b94b-a3e8c1e4a008",
+    "memory": "User was advised to give the increased propranolol dose six weeks before judging its effectiveness",
+    "categories": [
+     "medication",
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "c1365d19-67dd-4316-9656-a33cadcf7d51",
+    "memory": "User called the office to discuss increasing the propranolol dose",
+    "categories": [
+     "medication",
+     "care_question"
+    ]
+   }
+  ],
+  "2026-07-15": [
+   {
+    "id": "8b4858c7-b3ea-4cf0-a123-808ac3328026",
+    "memory": "User reports that tiredness has worsened again while on propranolol 40\u202fmg, which they expected",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "bd0e2b2d-85be-4a99-983f-ea4eeb82fb06",
+    "memory": "User has been taking propranolol 40\u202fmg once daily for about a week and a half as of 2026-07-15",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "fd587cdd-3a0f-4a1b-9ce9-d4e4afe9a5e5",
+    "memory": "User reports no migraine since the propranolol dose increase to 40\u202fmg approximately 1.5\u202fweeks ago",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   }
+  ],
+  "2026-07-23": [
+   {
+    "id": "1836ffb2-3171-4559-965a-83638633fc90",
+    "memory": "User measured blood pressure at 100/64 on 2026-07-23, noting it was the lowest value they have recorded",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "46be6992-7167-4a62-a508-3f7a9d4d188e",
+    "memory": "User felt brief dizziness when standing up quickly this morning on 2026-07-23",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "9b50a03b-f38d-49cd-b4a5-4ac3ba3b4533",
+    "memory": "User experienced one mild migraine that was caught early on 2026-07-23",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-07-30": [
+   {
+    "id": "5ecf7190-7c72-4a73-87f2-b353be540007",
+    "memory": "User experienced two migraines in July 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "756309fd-bfd2-43f8-b09d-a0f609ee618f",
+    "memory": "User thinks the 40\u202fmg propranolol dose might be working",
+    "categories": [
+     "medication"
+    ]
+   }
+  ],
+  "2026-08-05": [
+   {
+    "id": "08a53450-0abe-4fae-aae9-bdf8cf0d425e",
+    "memory": "User reports continued tiredness as of August 5, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "cefb79b4-2012-4595-aac6-d3c875825c50",
+    "memory": "User reports no migraine for the past twelve days as of August 5, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-08-13": [
+   {
+    "id": "0bb32e82-9eef-47dd-bf12-7cb050d67ce0",
+    "memory": "User experienced one migraine on Tuesday, August 9, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "11148a39-05cd-4ec2-bf8e-227e7ad98728",
+    "memory": "User reported sleeping around seven hours on August 13, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "a3c101de-d32c-4444-a8cf-063f5abf39aa",
+    "memory": "User took sumatriptan for the migraine on August 9, 2026, and it resolved the attack",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence"
+    ]
+   }
+  ],
+  "2026-08-20": [
+   {
+    "id": "4caaf780-51d1-47cf-b6e1-f124f3aac282",
+    "memory": "User recorded blood pressure of 102/68 on 2026-08-20",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "5b6b2e0a-5b43-4fd5-b666-caa98671e048",
+    "memory": "User reports no dizziness since July 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-08-25": [
+   {
+    "id": "2569b8db-74d3-4f73-88f3-b5e931864489",
+    "memory": "User has an upcoming appointment",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "388a7a76-2c5c-4aaa-9a34-fc80c0d7587f",
+    "memory": "User wants to ask clinician whether the constant tiredness is something they just live with or if there is an alternative",
+    "categories": [
+     "care_question",
+     "symptom"
+    ]
+   },
+   {
+    "id": "8b563573-78e1-44be-9202-021c4391ab1a",
+    "memory": "User wants to ask clinician whether an MRI is still needed given symptoms have settled down",
+    "categories": [
+     "care_question",
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "c5a20104-741a-4b7e-85af-f44c727907b2",
+    "memory": "User experienced two migraines in August 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "fac204d6-6ac3-4142-b529-5e5002110df4",
+    "memory": "User wants to ask clinician whether 40mg is the right long-term dose",
+    "categories": [
+     "care_question"
+    ]
+   }
+  ]
+ },
+ "arjun": {
+  "2025-09-10": [
+   {
+    "id": "2ef669fc-61a2-4daa-a90f-f83d6d537f7e",
+    "memory": "User is starting a health log at their daughter's insistence",
+    "categories": [
+     "lifestyle",
+     "social_context"
+    ]
+   },
+   {
+    "id": "77d3a958-2dd1-422d-add9-0c50d9880c4b",
+    "memory": "User takes amlodipine 5\u202fmg in the morning as of September 10, 2025",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "79da3122-42a8-49a1-a3e9-081cb1f5a176",
+    "memory": "User takes lisinopril 10\u202fmg in the morning as of September 10, 2025",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "868aee95-bc1d-48e7-a0a5-e6fb1c1481da",
+    "memory": "User takes atorvastatin 20\u202fmg at night as of September 10, 2025",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "b419d40f-d25b-4254-a820-e0f811d1ee56",
+    "memory": "User takes metformin 500\u202fmg twice daily as of September 10, 2025",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "ca6380dc-6268-47a3-a4eb-ea7030c7a50a",
+    "memory": "User was diagnosed with type 2 diabetes on September 10, 2019 (six years before the entry date)",
+    "categories": [
+     "condition"
+    ]
+   },
+   {
+    "id": "f84b3c47-aed5-4b9b-9e39-449026c8cd50",
+    "memory": "User has high blood pressure as of September 10, 2025",
+    "categories": [
+     "condition"
+    ]
+   }
+  ],
+  "2025-09-24": [
+   {
+    "id": "81cabc14-0895-44c6-aebb-64de731f570c",
+    "memory": "User walks most days, but recent weather has been against them, limiting walking activity",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "91d2d11a-b7dd-4e12-9dc7-80c9c2b30ce8",
+    "memory": "User recorded a fasting blood sugar of 142 on the morning of September 24, 2025, noting it is higher than desired",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2025-10-08": [
+   {
+    "id": "24c7c6fb-f0c1-4266-bceb-af5cf2e31d05",
+    "memory": "User recorded a blood pressure of 148/88 at a pharmacy machine on October 8, 2025",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "db36acd9-d74f-4945-bd4b-e342c71edadc",
+    "memory": "User noted that their ankles were puffy in the evenings, especially after a long day of standing, on October 8, 2025",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-10-21": [
+   {
+    "id": "c9fc117f-e49c-4472-8712-56bec48f91fa",
+    "memory": "User reported that ankle swelling is worse, with socks leaving deep marks, and mentioned it to their wife, who advised the user to stop ignoring the swelling, on October 21, 2025",
+    "categories": [
+     "symptom",
+     "social_context"
+    ]
+   }
+  ],
+  "2025-11-05": [
+   {
+    "id": "b9bc5a63-4f77-4dd2-ae06-003eba9a24c8",
+    "memory": "User reports fasting sugars ranging from 138 to 155 over the two weeks preceding November 5, 2025, and notes they are not great",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2025-11-19": [
+   {
+    "id": "29b32904-fa20-493b-838c-8c9b056ee7ee",
+    "memory": "User saw Dr. Whitfield on November 19, 2025",
+    "categories": []
+   },
+   {
+    "id": "671bf624-1ca2-429c-afeb-d4c6216dc32f",
+    "memory": "User will monitor blood pressure going forward as of November 19, 2025",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "8e69eb1a-8ffd-406b-8a98-d916b755a31f",
+    "memory": "User decided to stop amlodipine 5\u202fmg in the morning as of November 19, 2025",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "f3ea95d5-fe57-4de6-8f1a-d7b8fcc6807b",
+    "memory": "User believes ankle swelling is likely caused by amlodipine as of November 19, 2025",
+    "categories": [
+     "medication",
+     "symptom",
+     "allergy_intolerance"
+    ]
+   }
+  ],
+  "2025-12-08": [
+   {
+    "id": "1ce069bd-e008-4e56-aa98-d5b71c7b8e19",
+    "memory": "User stopped amlodipine 5\u202fmg in the morning on November 17, 2025",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "507fa0b5-7b99-4317-86b0-a824703be56b",
+    "memory": "User continues taking lisinopril 10\u202fmg in the morning, metformin 500\u202fmg twice daily, and atorvastatin 20\u202fmg at night as of December 8, 2025",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "622e6a93-153d-4087-b298-10166e3c3e57",
+    "memory": "User reports that ankle swelling has almost entirely resolved and socks no longer leave marks as of December 8, 2025",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2025-12-20": [
+   {
+    "id": "095a4b25-0904-4d02-865f-0dbbd15dfbfb",
+    "memory": "User mentions a trade\u2011off for the ankles, implying ankle swelling improved after stopping the tablet",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "5076a8d2-1443-480c-8bf7-4b07f9604ea6",
+    "memory": "User recorded a blood pressure of 144/86 on December 20, 2025, noting it is higher than previous readings",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "b35e277d-5550-48c5-8111-be2229386d62",
+    "memory": "User believes the higher blood pressure is due to stopping a blood pressure tablet",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   }
+  ],
+  "2026-01-07": [
+   {
+    "id": "0a325972-3437-4c31-ba04-b8d2c24a114f",
+    "memory": "User booked an appointment with Dr. Whitfield on January 7, 2026",
+    "categories": []
+   },
+   {
+    "id": "1e0686df-5eed-48c1-8567-477e3d896f6b",
+    "memory": "User noted that Dr. Whitfield was not delighted with the HbA1c result on January 7, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "6da67a1d-ca4a-4540-a152-036ba9038154",
+    "memory": "User's HbA1c result was 8.1 on January 7, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-01-20": [
+   {
+    "id": "26adcc64-32fb-42dd-a937-da78c08a701e",
+    "memory": "User increased metformin dose from 500\u202fmg twice daily to 1000\u202fmg twice daily on January 20, 2026, and was told to expect some stomach upset for a couple of weeks and to take it with meals",
+    "categories": [
+     "medication",
+     "clinician_instruction"
+    ]
+   }
+  ],
+  "2026-02-03": [
+   {
+    "id": "8b27dcbd-9b83-4207-bc9f-55dcf84243ba",
+    "memory": "User reports ongoing stomach upset with loose bowels most mornings for the past two weeks (approximately January 20\u202f\u2013\u202fFebruary 3, 2026) and is continuing the regimen as instructed",
+    "categories": [
+     "symptom",
+     "adherence"
+    ]
+   }
+  ],
+  "2026-02-18": [
+   {
+    "id": "00e7fd27-99e7-4485-84fa-3b21d6e860fa",
+    "memory": "User's fasting sugars ranged from 118 to 130 on February 18, 2026, noting it is much better than in the autumn",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "4bf1492b-f416-424f-8e46-dfd71cde6d2a",
+    "memory": "User reports that their stomach has settled as of February 18, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-03-11": [
+   {
+    "id": "27d5362c-aabf-4bab-9d57-66083fd793d2",
+    "memory": "User reports no plans to restart amlodipine as of March 11, 2026, due to ankle swelling",
+    "categories": [
+     "medication",
+     "symptom"
+    ]
+   },
+   {
+    "id": "9f9649ff-b899-4484-be56-a34ff17ba23c",
+    "memory": "User increased lisinopril dose from 10\u202fmg to 20\u202fmg once daily on March 11, 2026",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "d7a3211c-8964-4555-98f5-3e94fe654a46",
+    "memory": "User recorded blood pressure of 146/90 at the surgery on March 11, 2026, noting it is still running high",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-03-25": [
+   {
+    "id": "8aa71f88-8fe7-4329-887e-f73d5b536f91",
+    "memory": "User recorded blood pressure 132/82 on March 25, 2026, noting it is better",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "bf8d2f83-8222-4928-a34c-1006e3c3f61f",
+    "memory": "User reports a slight dry cough that has been occurring on and off for years",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-02": [
+   {
+    "id": "0ba79961-8c56-4856-a476-3fd05a0ef6e0",
+    "memory": "User listed current medications to a new shoulder physiotherapist on April 2, 2026: metformin 1000\u202fmg twice daily, lisinopril 20\u202fmg once daily, and amlodipine (dose unspecified).",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "0f83feab-1ce1-42b5-bc12-c4489ce758a0",
+    "memory": "User reported not taking any medication for cholesterol as of April 2, 2026.",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "625c30ba-3697-47a3-82fb-71cf6c009715",
+    "memory": "User's physiotherapist asked for a list of medications on April 2, 2026.",
+    "categories": [
+     "clinician_instruction"
+    ]
+   }
+  ],
+  "2026-04-16": [
+   {
+    "id": "629d70a4-984e-493c-a8db-fb708335ddff",
+    "memory": "User recorded a fasting sugar of 121 on April 16, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "d4c06af1-0c78-426c-9322-d2d60309441d",
+    "memory": "User walks 30 minutes most days since spring arrived, as of April 16, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-05-06": [
+   {
+    "id": "1278f76b-4b48-4865-8b2b-fba49b8bdd4c",
+    "memory": "Dr. Whitfield was pleased with the HbA1c result as of May 6, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "6aa105cf-5b3f-42a4-9870-5762b544109e",
+    "memory": "User decided to keep everything as is, maintaining the current medication regimen as of May 6, 2026",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "e828f7c1-612c-43c5-ba18-ec7360c6d806",
+    "memory": "User's HbA1c was 7.2 as of May 6, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-05-20": [
+   {
+    "id": "022e3639-7026-4bc6-aeee-8c0ac30c17ab",
+    "memory": "User recorded blood pressure 128/78 on May 20, 2026.",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "19505bee-9813-4cf1-add7-e9c87306ac92",
+    "memory": "User reported that ankle swelling is absent and ankles are fine on May 20, 2026.",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "27d47ccf-7171-4703-9206-91be49d362a3",
+    "memory": "User noted cough still present occasionally, mostly at night, on May 20, 2026.",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-06-15": [
+   {
+    "id": "c19ab670-325f-4f59-a391-973d07a8265f",
+    "memory": "User filled a pre\u2011op form for a cataract assessment on June 15, 2026, and listed the medications metformin, lisinopril, amlodipine, and eye drops (doses not specified)",
+    "categories": [
+     "medication",
+     "procedure_or_test"
+    ]
+   }
+  ],
+  "2026-07-01": [
+   {
+    "id": "752435d0-7392-4793-ac35-c7a7b0601eec",
+    "memory": "User's fasting blood sugars were steady between 115 and 125 mg/dL on July 1, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "a812509f-81b3-4d90-a25e-d07d52c83c55",
+    "memory": "User reported feeling better than they have been in the past one to two years as of July 1, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-07-22": [
+   {
+    "id": "2679a62d-a9a5-4e6a-af34-073ec253529f",
+    "memory": "User was without atorvastatin for four days, then resumed taking atorvastatin 20mg at night on July 22, 2026",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   }
+  ],
+  "2026-08-12": [
+   {
+    "id": "69461d0d-d6e6-4825-b92d-f06acf2fb80b",
+    "memory": "User recorded blood pressure 130/80 on August 12, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "c35ec101-bf31-43e6-b0ba-f94ba7b553b4",
+    "memory": "User reports night cough persists as of August 12, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "e0e289db-16dc-470a-88bb-5b819e3304c0",
+    "memory": "User reports fasting sugars are steady as of August 12, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "e504db06-b48b-4c90-8e42-2d9f61f68304",
+    "memory": "User wants to ask clinician whether lisinopril could be causing the night cough",
+    "categories": [
+     "care_question",
+     "symptom",
+     "medication"
+    ]
+   }
+  ],
+  "2026-08-26": [
+   {
+    "id": "2a71f6ab-4f3e-4375-9f76-0fec0ecee06f",
+    "memory": "User wants to ask their clinician about the cough as of August 26, 2026",
+    "categories": [
+     "care_question"
+    ]
+   },
+   {
+    "id": "58db2890-2397-41fe-bbb2-9dcabaec2648",
+    "memory": "User has an upcoming review appointment (date not specified) as of August 26, 2026",
+    "categories": []
+   },
+   {
+    "id": "6f6d37b8-2f82-4a5a-9b4d-03b0a8f59a71",
+    "memory": "User wants to ask their clinician whether the metformin dose is appropriate for long\u2011term use as of August 26, 2026",
+    "categories": [
+     "care_question"
+    ]
+   }
+  ]
+ },
+ "rosa": {
+  "2026-04-14": [
+   {
+    "id": "253468f0-c387-4ded-b5a9-e66bda84bb7d",
+    "memory": "User reports pain is about 8 out of 10 despite medication",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "28d3a0ef-feab-4314-bb7a-0aaca6e9d41e",
+    "memory": "User is taking paracetamol",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "3fddb708-b9a1-4cff-8df4-fc7f938fc3d0",
+    "memory": "User reports the procedure went as planned",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "619a7dd3-3f93-4fe5-b3d0-289cfc2170c4",
+    "memory": "User walked to the bathroom and back using a frame on April 14, 2026, noting it took a long time",
+    "categories": [
+     "symptom",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "66e46875-3323-4f88-a18e-afc6f7ce19b2",
+    "memory": "User had right knee replacement surgery on April 13, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "83b05b5a-5da9-4212-b1a1-ad70717fc064",
+    "memory": "User is taking oxycodone 5mg every six hours as needed",
+    "categories": [
+     "medication"
+    ]
+   }
+  ],
+  "2026-04-17": [
+   {
+    "id": "000a4125-4456-4412-a614-022bdf23f1b1",
+    "memory": "User is performing ankle pumps and straight leg raises three times a day as instructed, as of April 17, 2026",
+    "categories": [
+     "procedure_or_test",
+     "adherence",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "3e856e7a-4696-4ff9-8487-82603a6cbc68",
+    "memory": "User reports pain of 7 out of 10 on April 17, 2026, noting it is worse in the evenings",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "ec1e9c53-f48b-49a0-927a-b109580741c5",
+    "memory": "User notes that the knee is hot and very swollen on April 17, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-21": [
+   {
+    "id": "57e60ff6-142e-490e-8432-07f5b0314c90",
+    "memory": "User noted that swelling was not budging on April 21, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "68d94343-ec6c-48e9-8477-213171bf8aaa",
+    "memory": "User managed about 30 metres with the frame on April 21, 2026, up from about ten metres previously",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "f7a2a5a3-91ca-4eb6-b4af-7bca85c4212d",
+    "memory": "User reported pain level decreased to 6 out of 10 on April 21, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-04-25": [
+   {
+    "id": "011f4107-98c5-45b5-aba8-4fff83f7b0f6",
+    "memory": "User is now taking ibuprofen",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "782c480b-e487-479e-9ab1-1032604520da",
+    "memory": "User reports pain level around 5 out of 10, stating it is manageable with paracetamol and ibuprofen",
+    "categories": [
+     "symptom",
+     "medication"
+    ]
+   },
+   {
+    "id": "f999306e-4c33-44ce-8e87-01ea46e6e492",
+    "memory": "User stopped oxycodone, noting it caused fogginess and constipation",
+    "categories": [
+     "medication",
+     "symptom",
+     "adherence"
+    ]
+   }
+  ],
+  "2026-04-28": [
+   {
+    "id": "b8ff2b79-6c21-4c64-96b1-2ea0f3d2f92e",
+    "memory": "On April 28, 2026, User reported that the surgical wound was redder than before, warm to the touch, and had yellowish discharge at one end of the incision; temperature was 37.9\u202f\u00b0C and User called the surgical team first thing, expressing worry.",
+    "categories": [
+     "symptom",
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-04-29": [
+   {
+    "id": "16e860dc-04d7-4c16-a016-9a7f10b4b651",
+    "memory": "User started cephalexin 500\u202fmg four times a day for seven days on April 29, 2026",
+    "categories": [
+     "medication"
+    ]
+   },
+   {
+    "id": "3e7a6cad-2c6e-4454-aadb-3de04b8ef78d",
+    "memory": "User noted a superficial wound infection on the same day, April 29, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "92e74c98-571e-4eda-a731-ec4f40b36a5f",
+    "memory": "Healthcare team took a wound swab on April 29, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "e9d29e2c-f7df-4657-8ba8-8aa0516e47b1",
+    "memory": "User was instructed to return immediately if the wound redness spreads or if they develop a fever, as advised on April 29, 2026",
+    "categories": [
+     "clinician_instruction",
+     "red_flag"
+    ]
+   }
+  ],
+  "2026-05-03": [
+   {
+    "id": "b3bc068f-e2be-4ae2-928c-f2d32627fe94",
+    "memory": "On May 3, 2026, the surgical wound redness has pulled back noticeably, there is no more discharge, temperature is normal, and the patient feels big relief",
+    "categories": [
+     "symptom",
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "f92467ad-843a-4413-8c1a-26804ea1f331",
+    "memory": "User is on day five of cephalexin 500\u202fmg four times a day on May 3, 2026",
+    "categories": [
+     "medication"
+    ]
+   }
+  ],
+  "2026-05-06": [
+   {
+    "id": "40833af8-aea9-40c8-9ddd-e238a14a0f30",
+    "memory": "User reported pain level of 5 out of 10 on May 6, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "4cd499c2-037d-4194-a65a-b58eab45b9e3",
+    "memory": "User completed the cephalexin 500\u202fmg four times a day course on May 6, 2026",
+    "categories": [
+     "medication",
+     "adherence"
+    ]
+   },
+   {
+    "id": "7daa7ec8-828b-48bf-a277-3da90af24375",
+    "memory": "User observed that the surgical wound appeared clean on May 6, 2026",
+    "categories": []
+   },
+   {
+    "id": "c9927e6c-be82-4dae-948f-3ae13d048b2f",
+    "memory": "User walked 100 metres using a stick on May 6, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   }
+  ],
+  "2026-05-13": [
+   {
+    "id": "0d13b12a-7dc7-402e-8437-6d71975cc837",
+    "memory": "Therapist set a goal for the knee to achieve 90 degrees of flexion by June 24, 2026 (six weeks after the session)",
+    "categories": [
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "299d6952-5f79-4b3c-bcb5-2639eac3d51b",
+    "memory": "User was given a set of exercises to perform twice daily as part of the physiotherapy plan",
+    "categories": [
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "c0075228-770e-4b0e-98b9-9eba1f284b72",
+    "memory": "User attended first outpatient physiotherapy session on May 13, 2026",
+    "categories": [
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "fa8c240f-e338-4ad7-a0d1-d60158a74960",
+    "memory": "During the session, knee flexion was measured at 75 degrees",
+    "categories": [
+     "vital_or_measurement",
+     "procedure_or_test"
+    ]
+   }
+  ],
+  "2026-05-20": [
+   {
+    "id": "1774bd63-dd6d-47c5-91fd-34c5bf3de2af",
+    "memory": "User reports pain level of 4 out of 10, mostly at night, on May 20, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "21de23b0-99c8-47a9-8a5c-9cbba2938026",
+    "memory": "User is performing physiotherapy exercises twice daily as of May 20, 2026",
+    "categories": [
+     "procedure_or_test",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "9af3b758-7986-4633-8cd8-9b8fcc1178e6",
+    "memory": "User reports that knee bend feels better on May 20, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "a0430fd4-9b7d-4e65-9234-70af8bc44dda",
+    "memory": "User walked approximately 300 metres on May 20, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-05-28": [
+   {
+    "id": "4a4f99eb-7666-4acc-a922-0ddc89194342",
+    "memory": "User walked approximately 500 metres with a stick to the corner shop and back on May 28, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "a6bce2d6-1aff-4e15-81f6-83f1d4530227",
+    "memory": "Physiotherapist expressed satisfaction with the progress on May 28, 2026",
+    "categories": []
+   },
+   {
+    "id": "f2dec10c-cf4e-4e46-b1db-2461a7089de6",
+    "memory": "User's knee flexion measured at 88 degrees on May 28, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-06-04": [
+   {
+    "id": "01f769ca-36ef-4305-ad59-2c0584ab183e",
+    "memory": "User reports sleeping through most nights for the first time since the surgery as of June 4, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "1a20f559-0fd0-4bab-be4e-af49452f5819",
+    "memory": "User reports pain level of 3 out of 10 on June 4, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-06-11": [
+   {
+    "id": "437bd72f-7b92-47a7-8fef-57f153a5288f",
+    "memory": "User returned to work on light duties on June 11, 2026, experiencing long days on their feet.",
+    "categories": [
+     "social_context",
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "78f5d139-b2fb-46b0-802e-bcf7e57fa430",
+    "memory": "User did not perform physiotherapy exercises properly during the week of June 4\u201310, 2026, due to fatigue after long work days.",
+    "categories": [
+     "adherence",
+     "symptom",
+     "lifestyle",
+     "social_context"
+    ]
+   }
+  ],
+  "2026-06-19": [
+   {
+    "id": "8ada56dd-605e-4be3-86a2-0164d31adff4",
+    "memory": "User reports knee feels stiffer, especially in the mornings, during the second week of physiotherapy adherence (approximately June 12\u201318, 2026)",
+    "categories": [
+     "symptom",
+     "adherence"
+    ]
+   },
+   {
+    "id": "8bf97bcc-c982-4cf9-b17a-fc50afa00842",
+    "memory": "User believes that reduced physiotherapy adherence and increased knee stiffness are connected",
+    "categories": [
+     "adherence",
+     "symptom"
+    ]
+   },
+   {
+    "id": "b1be1251-4eee-42ac-ac20-219c2fa1cbe4",
+    "memory": "User barely performed physiotherapy exercises during the second week (approximately June 12\u201318, 2026)",
+    "categories": [
+     "adherence"
+    ]
+   }
+  ],
+  "2026-06-26": [
+   {
+    "id": "a67d8607-9534-41eb-867a-9648fff1cb22",
+    "memory": "Physiotherapist told the user on June 26, 2026 that the exercises are the treatment and that the reduced knee flexion is reversible if the user resumes the exercises",
+    "categories": [
+     "clinician_instruction",
+     "condition"
+    ]
+   },
+   {
+    "id": "bc89f884-f376-409a-b54e-b2deae8e4686",
+    "memory": "User's knee flexion measured at 82 degrees during a physiotherapy appointment on June 26, 2026, decreased from the previous 88 degrees",
+    "categories": [
+     "procedure_or_test",
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-07-03": [
+   {
+    "id": "cf798e99-b49e-43dc-8050-2ce2add09edf",
+    "memory": "User reports knee stiffness is already easing as of July 3, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "ee925996-5dbe-49fa-93dd-d3727ce84a26",
+    "memory": "User resumed performing physiotherapy exercises twice daily properly on July 3, 2026",
+    "categories": [
+     "procedure_or_test",
+     "adherence"
+    ]
+   },
+   {
+    "id": "eeb76cf6-80b2-4f78-bee7-58e4f5513292",
+    "memory": "User set alarms to remind themselves to do physiotherapy exercises on July 3, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-07-10": [
+   {
+    "id": "0d963e05-b2eb-4893-94c0-af5e207db054",
+    "memory": "User reported pain level of 3 out of 10 on July 10, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "221081af-957d-4da3-b7d9-e1f3b5b0b667",
+    "memory": "User walked approximately 1 kilometre without a stick on good days as of July 10, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "915ab198-fbd5-489b-ab9f-a3087d1c1838",
+    "memory": "User's knee flexion measured at 90 degrees on July 10, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-07-18": [
+   {
+    "id": "15902783-a84f-4eb2-977a-cda67a05619b",
+    "memory": "User is no longer using a walking stick indoors as of July 18, 2026",
+    "categories": []
+   },
+   {
+    "id": "9e4cbdc2-7a50-4a2c-aa06-e2b0e20b49d2",
+    "memory": "User continues to use the walking stick for longer walks out of caution as of July 18, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-07-25": [
+   {
+    "id": "22e0f1ac-973e-4eb2-9606-62580e3a1a1c",
+    "memory": "User was able to climb stairs by placing one foot after the other rather than taking one step at a time on July 25, 2026",
+    "categories": [
+     "lifestyle"
+    ]
+   },
+   {
+    "id": "9b55b7f6-1003-4287-a779-0db9417a23f6",
+    "memory": "User's knee flexion measured at 98 degrees on July 25, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   },
+   {
+    "id": "bdff52e3-2682-472f-a42e-dcd98af23c21",
+    "memory": "User reported pain level of 2 out of 10 on July 25, 2026",
+    "categories": [
+     "symptom"
+    ]
+   }
+  ],
+  "2026-08-05": [
+   {
+    "id": "6c58e8dc-ffb8-4d3c-9c5f-64604c07c74d",
+    "memory": "User walked two kilometres comfortably on August 5, 2026, which is three months after knee replacement surgery",
+    "categories": [
+     "lifestyle",
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "7bfb8fbd-21c8-4761-89ec-06a8e977278e",
+    "memory": "User noted mild swelling in the evenings on August 5, 2026, three months after knee replacement surgery",
+    "categories": [
+     "symptom",
+     "procedure_or_test"
+    ]
+   },
+   {
+    "id": "c0f2557a-11d0-492a-b574-12419ffacec2",
+    "memory": "User reported pain level of 2 out of 10 on August 5, 2026, occurring only after a long day, three months post knee replacement",
+    "categories": [
+     "symptom",
+     "procedure_or_test",
+     "vital_or_measurement"
+    ]
+   }
+  ],
+  "2026-08-15": [
+   {
+    "id": "61582ae8-6db4-48f1-810a-a21d61e2bb4b",
+    "memory": "User reports the knee is holding up as of August 15, 2026",
+    "categories": [
+     "symptom"
+    ]
+   },
+   {
+    "id": "db8d67dd-d2ba-4829-9033-7df4e3f6aa7b",
+    "memory": "User is performing physiotherapy exercises once daily as of August 15, 2026, which the physiotherapist said is fine at this stage",
+    "categories": [
+     "procedure_or_test",
+     "adherence",
+     "clinician_instruction"
+    ]
+   },
+   {
+    "id": "e123dc49-e6e0-427b-8958-c54a28590555",
+    "memory": "User returned to full work duties as of August 15, 2026",
+    "categories": [
+     "social_context",
+     "lifestyle"
+    ]
+   }
+  ],
+  "2026-08-24": [
+   {
+    "id": "66f3bbfd-876b-4b6b-b0b9-5273a9911973",
+    "memory": "User wants to ask their clinician at the next review when they can resume cycling and whether evening swelling is expected at this stage post\u2011surgery",
+    "categories": [
+     "care_question"
+    ]
+   },
+   {
+    "id": "cca42fd3-44eb-48c1-ad3f-271b40d34335",
+    "memory": "User's knee flexion measured at 105 degrees on August 24, 2026",
+    "categories": [
+     "vital_or_measurement"
+    ]
+   }
+  ]
+ }
+}
